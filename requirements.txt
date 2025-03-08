@@ -1,4 +1,4 @@
-nltk==3.8.1
+nltk==3.9.1
 wikipedia==1.4.0
 requests==2.31.0
 pytest==7.4.0
