@@ -1,0 +1,1450 @@
+2025-03-08 12:18:14,624 - KAI - INFO - Loaded 0 concepts from knowledge base
+2025-03-08 12:18:14,625 - KAI - INFO - KAI initialized successfully
+2025-03-08 12:18:14,625 - KAI - INFO - Bootstrapping knowledge with seeds: ['artificial intelligence', 'machine learning', 'knowledge representation']
+2025-03-08 12:18:14,626 - KAI - INFO - Exploring concept: 'artificial intelligence'
+2025-03-08 12:18:16,513 - KAI - INFO - Knowledge base saved with 1 concepts
+2025-03-08 12:18:16,539 - KAI - INFO - Exploring concept: 'machine learning'
+2025-03-08 12:18:17,750 - KAI - WARNING - No Wikipedia page found for 'machine learning'
+2025-03-08 12:18:17,751 - KAI - INFO - Knowledge base saved with 2 concepts
+2025-03-08 12:18:17,752 - KAI - INFO - Exploring concept: 'knowledge representation'
+2025-03-08 12:18:19,515 - KAI - INFO - Knowledge base saved with 3 concepts
+2025-03-08 12:19:33,135 - KAI - INFO - Exploring concept: 'artificial'
+2025-03-08 12:19:34,921 - KAI - INFO - Knowledge base saved with 4 concepts
+2025-03-08 12:19:35,923 - KAI - INFO - Exploring concept: 'state'
+2025-03-08 12:19:41,312 - KAI - INFO - Knowledge base saved with 5 concepts
+2025-03-08 12:19:42,316 - KAI - INFO - Exploring concept: 'human'
+2025-03-08 12:19:44,132 - KAI - INFO - Knowledge base saved with 6 concepts
+2025-03-08 12:19:45,134 - KAI - INFO - Exploring concept: 'artificiality'
+2025-03-08 12:19:46,921 - KAI - INFO - Knowledge base saved with 7 concepts
+2025-03-08 12:19:47,923 - KAI - INFO - Exploring concept: 'anthropogenic'
+2025-03-08 12:19:51,611 - KAI - INFO - Knowledge base saved with 8 concepts
+2025-03-08 12:19:52,614 - KAI - INFO - Exploring concept: 'product'
+2025-03-08 12:19:54,425 - KAI - INFO - Knowledge base saved with 9 concepts
+2025-03-08 12:19:55,427 - KAI - INFO - Exploring concept: 'intentional'
+2025-03-08 12:19:57,329 - KAI - INFO - Knowledge base saved with 10 concepts
+2025-03-08 12:19:58,335 - KAI - INFO - Exploring concept: 'manufacture'
+2025-03-08 12:20:00,141 - KAI - INFO - Knowledge base saved with 11 concepts
+2025-03-08 12:20:01,144 - KAI - INFO - Exploring concept: 'rather'
+2025-03-08 12:20:04,910 - KAI - INFO - Knowledge base saved with 12 concepts
+2025-03-08 12:20:05,912 - KAI - INFO - Exploring concept: 'occurring'
+2025-03-08 12:20:07,822 - KAI - INFO - Knowledge base saved with 13 concepts
+2025-03-08 12:20:08,827 - KAI - INFO - Exploring concept: 'policy'
+2025-03-08 12:20:10,629 - KAI - INFO - Knowledge base saved with 14 concepts
+2025-03-08 12:20:11,633 - KAI - INFO - Exploring concept: 'public'
+2025-03-08 12:20:13,543 - KAI - INFO - Knowledge base saved with 15 concepts
+2025-03-08 12:20:14,545 - KAI - INFO - Exploring concept: 'government'
+2025-03-08 12:20:16,319 - KAI - INFO - Knowledge base saved with 16 concepts
+2025-03-08 12:20:17,321 - KAI - INFO - Exploring concept: 'process'
+2025-03-08 12:20:19,230 - KAI - INFO - Knowledge base saved with 17 concepts
+2025-03-08 12:20:20,232 - KAI - INFO - Exploring concept: 'various'
+2025-03-08 12:20:24,185 - KAI - WARNING - Failed to resolve disambiguation for 'various'
+2025-03-08 12:20:24,193 - KAI - INFO - Knowledge base saved with 18 concepts
+2025-03-08 12:20:25,194 - KAI - INFO - Exploring concept: 'sometimes'
+2025-03-08 12:20:29,338 - KAI - INFO - Knowledge base saved with 19 concepts
+2025-03-08 12:20:30,340 - KAI - INFO - Exploring concept: 'made'
+2025-03-08 12:20:34,432 - KAI - INFO - Knowledge base saved with 20 concepts
+2025-03-08 12:20:35,435 - KAI - INFO - Exploring concept: 'experts'
+2025-03-08 12:20:37,282 - KAI - INFO - Knowledge base saved with 21 concepts
+2025-03-08 12:20:38,285 - KAI - INFO - Exploring concept: 'political'
+2025-03-08 12:20:40,158 - KAI - INFO - Knowledge base saved with 22 concepts
+2025-03-08 12:20:41,161 - KAI - INFO - Exploring concept: 'stages'
+2025-03-08 12:20:45,089 - KAI - INFO - Knowledge base saved with 23 concepts
+2025-03-08 12:20:46,092 - KAI - INFO - Exploring concept: 'male'
+2025-03-08 12:20:49,814 - KAI - INFO - Knowledge base saved with 24 concepts
+2025-03-08 12:20:50,817 - KAI - INFO - Exploring concept: 'men'
+2025-03-08 12:20:55,035 - KAI - INFO - Knowledge base saved with 25 concepts
+2025-03-08 12:20:56,037 - KAI - INFO - Exploring concept: 'sex'
+2025-03-08 12:20:59,846 - KAI - INFO - Knowledge base saved with 26 concepts
+2025-03-08 12:21:00,849 - KAI - INFO - Exploring concept: 'chromosome'
+2025-03-08 12:21:02,585 - KAI - INFO - Knowledge base saved with 27 concepts
+2025-03-08 12:21:03,588 - KAI - INFO - Exploring concept: 'characteristics'
+2025-03-08 12:21:07,237 - KAI - INFO - Knowledge base saved with 28 concepts
+2025-03-08 12:21:08,241 - KAI - INFO - Exploring concept: 'man'
+2025-03-08 12:21:10,676 - KAI - INFO - Knowledge base saved with 29 concepts
+2025-03-08 12:21:11,679 - KAI - INFO - Exploring concept: 'result'
+2025-03-08 12:21:16,394 - KAI - INFO - Knowledge base saved with 30 concepts
+2025-03-08 12:21:17,396 - KAI - INFO - Exploring concept: 'secondary'
+2025-03-08 12:21:21,090 - KAI - INFO - Knowledge base saved with 31 concepts
+2025-03-08 12:21:22,092 - KAI - INFO - Exploring concept: 'include'
+2025-03-08 12:21:25,904 - KAI - INFO - Knowledge base saved with 32 concepts
+2025-03-08 12:21:26,908 - KAI - INFO - Exploring concept: 'mya'
+2025-03-08 12:21:30,720 - KAI - INFO - Knowledge base saved with 33 concepts
+2025-03-08 12:21:31,722 - KAI - INFO - Exploring concept: 'humans'
+2025-03-08 12:21:33,599 - KAI - INFO - Knowledge base saved with 34 concepts
+2025-03-08 12:21:34,604 - KAI - INFO - Exploring concept: 'including'
+2025-03-08 12:21:37,737 - KAI - INFO - Knowledge base saved with 35 concepts
+2025-03-08 12:21:38,740 - KAI - INFO - Exploring concept: 'hominid'
+2025-03-08 12:21:40,459 - KAI - INFO - Knowledge base saved with 36 concepts
+2025-03-08 12:21:41,462 - KAI - INFO - Exploring concept: 'primates'
+2025-03-08 12:21:43,307 - KAI - INFO - Knowledge base saved with 37 concepts
+2025-03-08 12:21:44,311 - KAI - INFO - Exploring concept: 'diverged'
+2025-03-08 12:21:48,589 - KAI - INFO - Knowledge base saved with 38 concepts
+2025-03-08 12:21:49,590 - KAI - INFO - Exploring concept: 'homo'
+2025-03-08 12:21:51,437 - KAI - INFO - Knowledge base saved with 39 concepts
+2025-03-08 12:21:52,440 - KAI - INFO - Exploring concept: 'also'
+2025-03-08 12:21:56,591 - KAI - INFO - Knowledge base saved with 40 concepts
+2025-03-08 12:21:57,594 - KAI - INFO - Exploring concept: 'evolutionary'
+2025-03-08 12:21:59,353 - KAI - INFO - Knowledge base saved with 41 concepts
+2025-03-08 12:22:00,356 - KAI - INFO - Exploring concept: 'hominins'
+2025-03-08 12:22:02,555 - KAI - INFO - Knowledge base saved with 42 concepts
+2025-03-08 12:22:03,558 - KAI - INFO - Exploring concept: 'used'
+2025-03-08 12:22:07,751 - KAI - INFO - Knowledge base saved with 43 concepts
+2025-03-08 12:22:08,753 - KAI - INFO - Exploring concept: 'produce'
+2025-03-08 12:22:10,595 - KAI - INFO - Knowledge base saved with 44 concepts
+2025-03-08 12:22:11,597 - KAI - INFO - Exploring concept: 'vegetables'
+2025-03-08 12:22:13,332 - KAI - INFO - Knowledge base saved with 45 concepts
+2025-03-08 12:22:14,335 - KAI - INFO - Exploring concept: 'products'
+2025-03-08 12:22:16,179 - KAI - INFO - Knowledge base saved with 46 concepts
+2025-03-08 12:22:17,181 - KAI - INFO - Exploring concept: 'term'
+2025-03-08 12:22:18,949 - KAI - INFO - Knowledge base saved with 47 concepts
+2025-03-08 12:22:19,952 - KAI - INFO - Exploring concept: 'american'
+2025-03-08 12:22:22,511 - KAI - INFO - Knowledge base saved with 48 concepts
+2025-03-08 12:22:23,516 - KAI - INFO - Exploring concept: 'english'
+2025-03-08 12:22:27,664 - KAI - INFO - Knowledge base saved with 49 concepts
+2025-03-08 12:22:28,667 - KAI - INFO - Exploring concept: 'generally'
+2025-03-08 12:22:30,910 - KAI - INFO - Knowledge base saved with 50 concepts
+2025-03-08 12:22:31,912 - KAI - INFO - Exploring concept: 'refers'
+2025-03-08 12:22:35,336 - KAI - WARNING - Failed to resolve disambiguation for 'refers'
+2025-03-08 12:22:35,353 - KAI - INFO - Knowledge base saved with 51 concepts
+2025-03-08 12:22:36,354 - KAI - INFO - Exploring concept: 'fresh'
+2025-03-08 12:22:38,650 - KAI - INFO - Knowledge base saved with 52 concepts
+2025-03-08 12:22:39,653 - KAI - INFO - Exploring concept: 'intentions'
+2025-03-08 12:22:41,358 - KAI - INFO - Knowledge base saved with 53 concepts
+2025-03-08 12:22:42,363 - KAI - INFO - Exploring concept: 'action'
+2025-03-08 12:22:46,500 - KAI - WARNING - Failed to resolve disambiguation for 'action'
+2025-03-08 12:22:46,517 - KAI - INFO - Knowledge base saved with 54 concepts
+2025-03-08 12:22:47,519 - KAI - INFO - Exploring concept: 'intention'
+2025-03-08 12:22:49,356 - KAI - INFO - Knowledge base saved with 55 concepts
+2025-03-08 12:22:50,359 - KAI - INFO - Exploring concept: 'agent'
+2025-03-08 12:22:54,754 - KAI - INFO - Knowledge base saved with 56 concepts
+2025-03-08 12:22:55,756 - KAI - INFO - Exploring concept: 'plan'
+2025-03-08 12:22:59,809 - KAI - INFO - Knowledge base saved with 57 concepts
+2025-03-08 12:23:00,812 - KAI - INFO - Exploring concept: 'actions'
+2025-03-08 12:23:04,919 - KAI - INFO - Knowledge base saved with 58 concepts
+2025-03-08 12:23:05,924 - KAI - INFO - Exploring concept: 'course'
+2025-03-08 12:23:08,360 - KAI - INFO - Knowledge base saved with 59 concepts
+2025-03-08 12:23:09,364 - KAI - INFO - Exploring concept: 'states'
+2025-03-08 12:23:10,701 - KAI - WARNING - No Wikipedia page found for 'states'
+2025-03-08 12:23:10,723 - KAI - INFO - Knowledge base saved with 60 concepts
+2025-03-08 12:23:11,724 - KAI - INFO - Exploring concept: 'theory'
+2025-03-08 12:23:13,559 - KAI - INFO - Knowledge base saved with 61 concepts
+2025-03-08 12:23:14,563 - KAI - INFO - Exploring concept: 'mental'
+2025-03-08 12:23:16,402 - KAI - INFO - Knowledge base saved with 62 concepts
+2025-03-08 12:23:17,406 - KAI - INFO - Exploring concept: 'manufacturing'
+2025-03-08 12:23:19,258 - KAI - INFO - Knowledge base saved with 63 concepts
+2025-03-08 12:23:20,260 - KAI - INFO - Exploring concept: 'materials'
+2025-03-08 12:23:22,158 - KAI - INFO - Knowledge base saved with 64 concepts
+2025-03-08 12:23:23,160 - KAI - INFO - Exploring concept: 'goods'
+2025-03-08 12:23:24,956 - KAI - INFO - Knowledge base saved with 65 concepts
+2025-03-08 12:23:25,958 - KAI - INFO - Exploring concept: 'sector'
+2025-03-08 12:23:27,759 - KAI - INFO - Knowledge base saved with 66 concepts
+2025-03-08 12:23:28,762 - KAI - INFO - Exploring concept: 'design'
+2025-03-08 12:23:30,624 - KAI - INFO - Knowledge base saved with 67 concepts
+2025-03-08 12:23:31,625 - KAI - INFO - Exploring concept: 'engineering'
+2025-03-08 12:23:33,544 - KAI - INFO - Knowledge base saved with 68 concepts
+2025-03-08 12:23:34,546 - KAI - INFO - Exploring concept: 'production'
+2025-03-08 12:23:38,696 - KAI - INFO - Knowledge base saved with 69 concepts
+2025-03-08 12:23:39,700 - KAI - INFO - Exploring concept: 'equipment'
+2025-03-08 12:23:41,459 - KAI - INFO - Knowledge base saved with 70 concepts
+2025-03-08 12:23:42,461 - KAI - INFO - Exploring concept: 'ad'
+2025-03-08 12:23:44,261 - KAI - INFO - Knowledge base saved with 71 concepts
+2025-03-08 12:23:45,263 - KAI - INFO - Exploring concept: 'ratherius'
+2025-03-08 12:23:47,043 - KAI - INFO - Knowledge base saved with 72 concepts
+2025-03-08 12:23:48,045 - KAI - INFO - Exploring concept: '974'
+2025-03-08 12:23:49,825 - KAI - INFO - Knowledge base saved with 73 concepts
+2025-03-08 12:23:50,827 - KAI - INFO - Exploring concept: 'rathier'
+2025-03-08 12:23:53,862 - KAI - INFO - Knowledge base saved with 74 concepts
+2025-03-08 12:23:54,864 - KAI - INFO - Exploring concept: 'verona'
+2025-03-08 12:23:58,763 - KAI - INFO - Knowledge base saved with 75 concepts
+2025-03-08 12:23:59,766 - KAI - INFO - Exploring concept: 'teacher'
+2025-03-08 12:24:03,388 - KAI - INFO - Knowledge base saved with 76 concepts
+2025-03-08 12:24:04,390 - KAI - INFO - Exploring concept: 'writer'
+2025-03-08 12:24:06,764 - KAI - INFO - Knowledge base saved with 77 concepts
+2025-03-08 12:24:07,767 - KAI - INFO - Exploring concept: 'bishop'
+2025-03-08 12:24:09,443 - KAI - WARNING - No Wikipedia page found for 'bishop'
+2025-03-08 12:24:09,471 - KAI - INFO - Knowledge base saved with 78 concepts
+2025-03-08 12:24:10,472 - KAI - INFO - Exploring concept: 'difficult'
+2025-03-08 12:24:15,450 - KAI - WARNING - Failed to resolve disambiguation for 'difficult'
+2025-03-08 12:24:15,477 - KAI - INFO - Knowledge base saved with 79 concepts
+2025-03-08 12:24:16,478 - KAI - INFO - Exploring concept: 'organization'
+2025-03-08 12:24:18,309 - KAI - INFO - Knowledge base saved with 80 concepts
+2025-03-08 12:24:19,311 - KAI - INFO - Exploring concept: 'occur'
+2025-03-08 12:24:21,115 - KAI - INFO - Knowledge base saved with 81 concepts
+2025-03-08 12:24:23,969 - KAI - INFO - Knowledge base saved with 82 concepts
+2025-03-08 12:24:24,971 - KAI - INFO - Exploring concept: 'lit'
+2025-03-08 12:24:28,971 - KAI - INFO - Knowledge base saved with 83 concepts
+2025-03-08 12:24:29,975 - KAI - INFO - Exploring concept: 'japanese'
+2025-03-08 12:24:33,967 - KAI - INFO - Knowledge base saved with 84 concepts
+2025-03-08 12:24:34,971 - KAI - INFO - Exploring concept: 'lgbt'
+2025-03-08 12:24:37,219 - KAI - INFO - Knowledge base saved with 85 concepts
+2025-03-08 12:24:38,221 - KAI - INFO - Exploring concept: 'rights'
+2025-03-08 12:24:40,600 - KAI - INFO - Knowledge base saved with 86 concepts
+2025-03-08 12:24:41,603 - KAI - INFO - Exploring concept: 'founded'
+2025-03-08 12:24:44,810 - KAI - INFO - Knowledge base saved with 87 concepts
+2025-03-08 12:24:45,812 - KAI - INFO - Exploring concept: 'involved'
+2025-03-08 12:24:50,039 - KAI - INFO - Knowledge base saved with 88 concepts
+2025-03-08 12:24:51,041 - KAI - INFO - Exploring concept: 'policies'
+2025-03-08 12:24:52,974 - KAI - INFO - Knowledge base saved with 89 concepts
+2025-03-08 12:24:53,975 - KAI - INFO - Exploring concept: 'may'
+2025-03-08 12:24:58,421 - KAI - INFO - Knowledge base saved with 90 concepts
+2025-03-08 12:24:59,423 - KAI - INFO - Exploring concept: 'decisions'
+2025-03-08 12:25:03,254 - KAI - INFO - Knowledge base saved with 91 concepts
+2025-03-08 12:25:04,255 - KAI - INFO - Exploring concept: 'company'
+2025-03-08 12:25:06,129 - KAI - INFO - Knowledge base saved with 92 concepts
+2025-03-08 12:25:07,130 - KAI - INFO - Exploring concept: 'individual'
+2025-03-08 12:25:08,932 - KAI - INFO - Knowledge base saved with 93 concepts
+2025-03-08 12:25:09,932 - KAI - INFO - Exploring concept: 'implemented'
+2025-03-08 12:25:13,725 - KAI - INFO - Knowledge base saved with 94 concepts
+2025-03-08 12:25:14,726 - KAI - INFO - Exploring concept: 'assist'
+2025-03-08 12:25:18,678 - KAI - INFO - Knowledge base saved with 95 concepts
+2025-03-08 12:25:19,679 - KAI - INFO - Exploring concept: 'subjective'
+2025-03-08 12:25:22,812 - KAI - WARNING - Failed to resolve disambiguation for 'subjective'
+2025-03-08 12:25:22,843 - KAI - INFO - Knowledge base saved with 96 concepts
+2025-03-08 12:25:23,845 - KAI - INFO - Exploring concept: 'science'
+2025-03-08 12:25:27,777 - KAI - INFO - Knowledge base saved with 97 concepts
+2025-03-08 12:25:28,778 - KAI - INFO - Exploring concept: 'concept'
+2025-03-08 12:25:32,887 - KAI - INFO - Knowledge base saved with 98 concepts
+2025-03-08 12:25:33,888 - KAI - INFO - Exploring concept: 'relations'
+2025-03-08 12:25:37,939 - KAI - INFO - Knowledge base saved with 99 concepts
+2025-03-08 12:25:38,941 - KAI - INFO - Exploring concept: 'communication'
+2025-03-08 12:25:41,839 - KAI - INFO - Knowledge base saved with 100 concepts
+2025-03-08 12:25:42,840 - KAI - INFO - Exploring concept: 'field'
+2025-03-08 12:25:46,665 - KAI - INFO - Knowledge base saved with 101 concepts
+2025-03-08 12:25:47,666 - KAI - INFO - Exploring concept: 'publics'
+2025-03-08 12:25:49,532 - KAI - INFO - Knowledge base saved with 102 concepts
+2025-03-08 12:25:50,533 - KAI - INFO - Exploring concept: 'groups'
+2025-03-08 12:25:53,951 - KAI - WARNING - Failed to resolve disambiguation for 'groups'
+2025-03-08 12:25:53,981 - KAI - INFO - Knowledge base saved with 103 concepts
+2025-03-08 12:25:54,982 - KAI - INFO - Exploring concept: 'people'
+2025-03-08 12:25:57,033 - KAI - INFO - Knowledge base saved with 104 concepts
+2025-03-08 12:25:58,034 - KAI - INFO - Exploring concept: 'main'
+2025-03-08 12:26:02,509 - KAI - WARNING - Failed to resolve disambiguation for 'main'
+2025-03-08 12:26:02,545 - KAI - INFO - Knowledge base saved with 105 concepts
+2025-03-08 12:26:03,547 - KAI - INFO - Exploring concept: 'regimes'
+2025-03-08 12:26:05,402 - KAI - INFO - Knowledge base saved with 106 concepts
+2025-03-08 12:26:06,404 - KAI - INFO - Exploring concept: 'forms'
+2025-03-08 12:26:10,484 - KAI - INFO - Knowledge base saved with 107 concepts
+2025-03-08 12:26:11,485 - KAI - INFO - Exploring concept: 'system'
+2025-03-08 12:26:13,383 - KAI - INFO - Knowledge base saved with 108 concepts
+2025-03-08 12:26:14,384 - KAI - INFO - Exploring concept: 'governing'
+2025-03-08 12:26:16,324 - KAI - INFO - Knowledge base saved with 109 concepts
+2025-03-08 12:26:17,325 - KAI - INFO - Exploring concept: 'philosophy'
+2025-03-08 12:26:19,085 - KAI - INFO - Knowledge base saved with 110 concepts
+2025-03-08 12:26:20,086 - KAI - INFO - Exploring concept: 'types'
+2025-03-08 12:26:24,394 - KAI - INFO - Knowledge base saved with 111 concepts
+2025-03-08 12:26:25,396 - KAI - INFO - Exploring concept: 'organizations'
+2025-03-08 12:26:27,396 - KAI - INFO - Knowledge base saved with 112 concepts
+2025-03-08 12:26:28,397 - KAI - INFO - Exploring concept: 'governments'
+2025-03-08 12:26:30,286 - KAI - INFO - Knowledge base saved with 113 concepts
+2025-03-08 12:26:31,287 - KAI - INFO - Exploring concept: 'series'
+2025-03-08 12:26:36,368 - KAI - WARNING - Failed to resolve disambiguation for 'series'
+2025-03-08 12:26:36,425 - KAI - INFO - Knowledge base saved with 114 concepts
+2025-03-08 12:26:37,426 - KAI - INFO - Exploring concept: 'set'
+2025-03-08 12:26:41,859 - KAI - WARNING - Failed to resolve disambiguation for 'set'
+2025-03-08 12:26:41,896 - KAI - INFO - Knowledge base saved with 115 concepts
+2025-03-08 12:26:42,897 - KAI - INFO - Exploring concept: 'activities'
+2025-03-08 12:26:46,077 - KAI - INFO - Knowledge base saved with 116 concepts
+2025-03-08 12:26:47,079 - KAI - INFO - Exploring concept: 'interact'
+2025-03-08 12:26:50,987 - KAI - INFO - Knowledge base saved with 117 concepts
+2025-03-08 12:26:51,989 - KAI - INFO - Exploring concept: 'recurrent'
+2025-03-08 12:26:55,793 - KAI - INFO - Knowledge base saved with 118 concepts
+2025-03-08 12:26:56,794 - KAI - INFO - Exploring concept: 'anderson'
+2025-03-08 12:27:00,892 - KAI - INFO - Knowledge base saved with 119 concepts
+2025-03-08 12:27:01,894 - KAI - INFO - Exploring concept: 'turner'
+2025-03-08 12:27:03,691 - KAI - INFO - Knowledge base saved with 120 concepts
+2025-03-08 12:27:04,692 - KAI - INFO - Exploring concept: 'album'
+2025-03-08 12:27:06,495 - KAI - INFO - Knowledge base saved with 121 concepts
+2025-03-08 12:27:07,496 - KAI - INFO - Exploring concept: 'country'
+2025-03-08 12:27:09,442 - KAI - INFO - Knowledge base saved with 122 concepts
+2025-03-08 12:27:10,443 - KAI - INFO - Exploring concept: 'studio'
+2025-03-08 12:27:14,627 - KAI - INFO - Knowledge base saved with 123 concepts
+2025-03-08 12:27:15,628 - KAI - INFO - Exploring concept: 'first'
+2025-03-08 12:27:19,953 - KAI - INFO - Knowledge base saved with 124 concepts
+2025-03-08 12:27:20,954 - KAI - INFO - Exploring concept: 'major'
+2025-03-08 12:27:25,102 - KAI - INFO - Knowledge base saved with 125 concepts
+2025-03-08 12:27:26,103 - KAI - INFO - Exploring concept: 'united'
+2025-03-08 12:27:30,394 - KAI - INFO - Knowledge base saved with 126 concepts
+2025-03-08 12:27:31,396 - KAI - INFO - Exploring concept: 'property'
+2025-03-08 12:27:33,243 - KAI - INFO - Knowledge base saved with 127 concepts
+2025-03-08 12:27:34,244 - KAI - INFO - Exploring concept: 'ownership'
+2025-03-08 12:27:35,407 - KAI - INFO - Knowledge base saved with 128 concepts
+2025-03-08 12:27:36,408 - KAI - INFO - Exploring concept: 'one'
+2025-03-08 12:27:40,598 - KAI - INFO - Knowledge base saved with 129 concepts
+2025-03-08 12:27:41,599 - KAI - INFO - Exploring concept: 'legal'
+2025-03-08 12:27:43,397 - KAI - INFO - Knowledge base saved with 130 concepts
+2025-03-08 12:27:44,398 - KAI - INFO - Exploring concept: 'transfer'
+2025-03-08 12:27:48,612 - KAI - INFO - Knowledge base saved with 131 concepts
+2025-03-08 12:27:49,614 - KAI - INFO - Exploring concept: 'lose'
+2025-03-08 12:27:53,552 - KAI - INFO - Knowledge base saved with 132 concepts
+2025-03-08 12:27:54,553 - KAI - INFO - Exploring concept: 'money'
+2025-03-08 12:27:56,400 - KAI - INFO - Knowledge base saved with 133 concepts
+2025-03-08 12:27:57,401 - KAI - INFO - Exploring concept: 'receive'
+2025-03-08 12:27:58,641 - KAI - WARNING - No Wikipedia page found for 'receive'
+2025-03-08 12:27:58,686 - KAI - INFO - Knowledge base saved with 134 concepts
+2025-03-08 12:27:59,687 - KAI - INFO - Exploring concept: 'gift'
+2025-03-08 12:28:01,499 - KAI - INFO - Knowledge base saved with 135 concepts
+2025-03-08 12:28:02,500 - KAI - INFO - Exploring concept: 'expert'
+2025-03-08 12:28:04,317 - KAI - INFO - Knowledge base saved with 136 concepts
+2025-03-08 12:28:05,319 - KAI - INFO - Exploring concept: 'knowledge'
+2025-03-08 12:28:07,299 - KAI - INFO - Knowledge base saved with 137 concepts
+2025-03-08 12:28:08,299 - KAI - INFO - Exploring concept: 'experience'
+2025-03-08 12:28:10,320 - KAI - INFO - Knowledge base saved with 138 concepts
+2025-03-08 12:28:11,321 - KAI - INFO - Exploring concept: 'area'
+2025-03-08 12:28:15,817 - KAI - WARNING - Failed to resolve disambiguation for 'area'
+2025-03-08 12:28:15,861 - KAI - INFO - Knowledge base saved with 139 concepts
+2025-03-08 12:28:16,862 - KAI - INFO - Exploring concept: 'study'
+2025-03-08 12:28:20,203 - KAI - INFO - Knowledge base saved with 140 concepts
+2025-03-08 12:28:21,204 - KAI - INFO - Exploring concept: 'research'
+2025-03-08 12:28:26,678 - KAI - WARNING - Failed to resolve disambiguation for 'research'
+2025-03-08 12:28:26,729 - KAI - INFO - Knowledge base saved with 141 concepts
+2025-03-08 12:28:27,730 - KAI - INFO - Exploring concept: 'skill'
+2025-03-08 12:28:29,585 - KAI - INFO - Knowledge base saved with 142 concepts
+2025-03-08 12:28:30,586 - KAI - INFO - Exploring concept: 'education'
+2025-03-08 12:28:32,503 - KAI - INFO - Knowledge base saved with 143 concepts
+2025-03-08 12:28:33,504 - KAI - INFO - Exploring concept: 'particular'
+2025-03-08 12:28:34,765 - KAI - WARNING - No Wikipedia page found for 'particular'
+2025-03-08 12:28:34,813 - KAI - INFO - Knowledge base saved with 144 concepts
+2025-03-08 12:28:35,814 - KAI - INFO - Exploring concept: 'politics'
+2025-03-08 12:28:37,056 - KAI - WARNING - No Wikipedia page found for 'politics'
+2025-03-08 12:28:37,106 - KAI - INFO - Knowledge base saved with 145 concepts
+2025-03-08 12:28:38,107 - KAI - INFO - Exploring concept: 'often'
+2025-03-08 12:28:39,369 - KAI - WARNING - No Wikipedia page found for 'often'
+2025-03-08 12:28:39,417 - KAI - INFO - Knowledge base saved with 146 concepts
+2025-03-08 12:28:40,418 - KAI - INFO - Exploring concept: 'making'
+2025-03-08 12:28:44,209 - KAI - INFO - Knowledge base saved with 147 concepts
+2025-03-08 12:28:45,210 - KAI - INFO - Exploring concept: 'among'
+2025-03-08 12:28:47,109 - KAI - INFO - Knowledge base saved with 148 concepts
+2025-03-08 12:28:48,110 - KAI - INFO - Exploring concept: 'social'
+2025-03-08 12:28:49,961 - KAI - INFO - Knowledge base saved with 149 concepts
+2025-03-08 12:28:50,962 - KAI - INFO - Exploring concept: 'different'
+2025-03-08 12:28:55,122 - KAI - INFO - Knowledge base saved with 150 concepts
+2025-03-08 12:28:56,123 - KAI - INFO - Exploring concept: 'stage'
+2025-03-08 12:29:24,508 - KAI - INFO - Loaded 150 concepts from knowledge base
+2025-03-08 12:29:24,509 - KAI - INFO - KAI initialized successfully
+2025-03-08 12:31:17,439 - KAI - INFO - Loaded 150 concepts from knowledge base
+2025-03-08 12:31:17,440 - KAI - INFO - KAI initialized successfully
+2025-03-08 12:31:57,404 - KAI - INFO - Exploring concept: 'america'
+2025-03-08 12:31:59,429 - KAI - INFO - Knowledge base saved with 151 concepts
+2025-03-08 12:32:00,434 - KAI - INFO - Exploring concept: 'states'
+2025-03-08 12:32:01,827 - KAI - WARNING - No Wikipedia page found for 'states'
+2025-03-08 12:32:01,888 - KAI - INFO - Knowledge base saved with 151 concepts
+2025-03-08 12:32:02,889 - KAI - INFO - Exploring concept: 'war'
+2025-03-08 12:32:05,316 - KAI - INFO - Knowledge base saved with 152 concepts
+2025-03-08 12:32:06,318 - KAI - INFO - Exploring concept: 'united'
+2025-03-08 12:32:10,525 - KAI - INFO - Knowledge base saved with 152 concepts
+2025-03-08 12:32:11,527 - KAI - INFO - Exploring concept: 'world'
+2025-03-08 12:32:13,464 - KAI - INFO - Knowledge base saved with 153 concepts
+2025-03-08 12:32:14,467 - KAI - INFO - Concept 'country' already known with high confidence
+2025-03-08 12:32:15,468 - KAI - INFO - Exploring concept: 'north'
+2025-03-08 12:32:19,346 - KAI - INFO - Knowledge base saved with 154 concepts
+2025-03-08 12:32:20,348 - KAI - INFO - Concept 'american' already known with high confidence
+2025-03-08 12:32:21,349 - KAI - INFO - Exploring concept: 'countries'
+2025-03-08 12:32:23,337 - KAI - INFO - Knowledge base saved with 155 concepts
+2025-03-08 12:32:24,340 - KAI - INFO - Exploring concept: 'federal'
+2025-03-08 12:32:26,785 - KAI - INFO - Knowledge base saved with 156 concepts
+2025-03-08 12:32:27,787 - KAI - INFO - Exploring concept: 'armed'
+2025-03-08 12:32:30,177 - KAI - INFO - Knowledge base saved with 157 concepts
+2025-03-08 12:32:31,180 - KAI - INFO - Exploring concept: 'forces'
+2025-03-08 12:32:33,107 - KAI - INFO - Knowledge base saved with 158 concepts
+2025-03-08 12:32:34,112 - KAI - INFO - Exploring concept: 'military'
+2025-03-08 12:32:36,056 - KAI - INFO - Knowledge base saved with 159 concepts
+2025-03-08 12:32:37,059 - KAI - INFO - Exploring concept: 'groups'
+2025-03-08 12:32:40,584 - KAI - WARNING - Failed to resolve disambiguation for 'groups'
+2025-03-08 12:32:40,641 - KAI - INFO - Knowledge base saved with 159 concepts
+2025-03-08 12:32:41,642 - KAI - INFO - Exploring concept: 'organized'
+2025-03-08 12:32:45,591 - KAI - INFO - Knowledge base saved with 160 concepts
+2025-03-08 12:32:46,593 - KAI - INFO - Exploring concept: 'warfare'
+2025-03-08 12:32:48,483 - KAI - INFO - Knowledge base saved with 161 concepts
+2025-03-08 12:32:49,485 - KAI - INFO - Exploring concept: 'result'
+2025-03-08 12:32:54,092 - KAI - INFO - Knowledge base saved with 161 concepts
+2025-03-08 12:32:55,094 - KAI - INFO - Exploring concept: 'conflict'
+2025-03-08 12:32:59,736 - KAI - INFO - Knowledge base saved with 162 concepts
+2025-03-08 12:33:00,738 - KAI - INFO - Exploring concept: 'located'
+2025-03-08 12:33:02,642 - KAI - INFO - Knowledge base saved with 163 concepts
+2025-03-08 12:33:03,644 - KAI - INFO - Exploring concept: 'mount'
+2025-03-08 12:33:05,489 - KAI - INFO - Knowledge base saved with 164 concepts
+2025-03-08 12:33:06,492 - KAI - INFO - Exploring concept: 'pleasant'
+2025-03-08 12:33:10,843 - KAI - INFO - Knowledge base saved with 165 concepts
+2025-03-08 12:33:11,845 - KAI - INFO - Exploring concept: 'township'
+2025-03-08 12:33:13,596 - KAI - INFO - Knowledge base saved with 166 concepts
+2025-03-08 12:33:14,597 - KAI - INFO - Exploring concept: 'westmoreland'
+2025-03-08 12:33:18,834 - KAI - INFO - Knowledge base saved with 167 concepts
+2025-03-08 12:33:19,836 - KAI - INFO - Exploring concept: 'county'
+2025-03-08 12:33:21,965 - KAI - INFO - Knowledge base saved with 168 concepts
+2025-03-08 12:33:22,969 - KAI - INFO - Exploring concept: 'pennsylvania'
+2025-03-08 12:33:25,007 - KAI - INFO - Knowledge base saved with 169 concepts
+2025-03-08 12:33:26,014 - KAI - INFO - Exploring concept: 'community'
+2025-03-08 12:33:28,109 - KAI - INFO - Knowledge base saved with 170 concepts
+2025-03-08 12:33:29,114 - KAI - INFO - Exploring concept: 'whole'
+2025-03-08 12:33:31,706 - KAI - INFO - Knowledge base saved with 171 concepts
+2025-03-08 12:33:32,732 - KAI - INFO - Exploring concept: 'horizon'
+2025-03-08 12:33:34,546 - KAI - INFO - Knowledge base saved with 172 concepts
+2025-03-08 12:33:35,549 - KAI - INFO - Exploring concept: 'mind'
+2025-03-08 12:33:37,351 - KAI - INFO - Knowledge base saved with 173 concepts
+2025-03-08 12:33:38,355 - KAI - INFO - Exploring concept: 'god'
+2025-03-08 12:33:40,250 - KAI - INFO - Knowledge base saved with 174 concepts
+2025-03-08 12:33:41,254 - KAI - INFO - Exploring concept: 'totality'
+2025-03-08 12:33:45,398 - KAI - WARNING - Failed to resolve disambiguation for 'totality'
+2025-03-08 12:33:45,471 - KAI - INFO - Knowledge base saved with 175 concepts
+2025-03-08 12:33:46,472 - KAI - INFO - Exploring concept: 'others'
+2025-03-08 12:33:50,656 - KAI - INFO - Knowledge base saved with 176 concepts
+2025-03-08 12:33:51,658 - KAI - INFO - Exploring concept: 'talk'
+2025-03-08 12:33:53,489 - KAI - INFO - Knowledge base saved with 177 concepts
+2025-03-08 12:33:54,491 - KAI - INFO - Exploring concept: 'worlds'
+2025-03-08 12:33:58,486 - KAI - INFO - Knowledge base saved with 178 concepts
+2025-03-08 12:33:59,488 - KAI - INFO - Exploring concept: 'things'
+2025-03-08 12:34:03,716 - KAI - INFO - Knowledge base saved with 179 concepts
+2025-03-08 12:34:04,722 - KAI - INFO - Exploring concept: 'party'
+2025-03-08 12:34:08,759 - KAI - INFO - Knowledge base saved with 180 concepts
+2025-03-08 12:34:09,762 - KAI - INFO - Exploring concept: 'independent'
+2025-03-08 12:34:11,608 - KAI - INFO - Knowledge base saved with 181 concepts
+2025-03-08 12:34:12,610 - KAI - INFO - Concept 'political' already known with high confidence
+2025-03-08 12:34:13,611 - KAI - INFO - Exploring concept: 'may'
+2025-03-08 12:34:18,151 - KAI - INFO - Knowledge base saved with 181 concepts
+2025-03-08 12:34:19,153 - KAI - INFO - Exploring concept: 'politician'
+2025-03-08 12:34:21,575 - KAI - INFO - Knowledge base saved with 182 concepts
+2025-03-08 12:34:22,577 - KAI - INFO - Exploring concept: 'choose'
+2025-03-08 12:34:24,403 - KAI - INFO - Knowledge base saved with 183 concepts
+2025-03-08 12:34:25,405 - KAI - INFO - Exploring concept: 'independents'
+2025-03-08 12:34:29,475 - KAI - INFO - Knowledge base saved with 184 concepts
+2025-03-08 12:34:30,477 - KAI - INFO - Exploring concept: 'stand'
+2025-03-08 12:34:32,412 - KAI - INFO - Knowledge base saved with 185 concepts
+2025-03-08 12:34:33,416 - KAI - INFO - Exploring concept: 'politicians'
+2025-03-08 12:34:35,362 - KAI - INFO - Knowledge base saved with 186 concepts
+2025-03-08 12:34:36,364 - KAI - INFO - Exploring concept: 'views'
+2025-03-08 12:34:40,773 - KAI - INFO - Knowledge base saved with 187 concepts
+2025-03-08 12:34:41,775 - KAI - INFO - Concept 'country' already known with high confidence
+2025-03-08 12:34:42,776 - KAI - INFO - Exploring concept: 'used'
+2025-03-08 12:34:47,014 - KAI - INFO - Knowledge base saved with 187 concepts
+2025-03-08 12:34:48,016 - KAI - INFO - Exploring concept: 'state'
+2025-03-08 12:34:53,051 - KAI - INFO - Knowledge base saved with 187 concepts
+2025-03-08 12:34:54,054 - KAI - INFO - Concept 'political' already known with high confidence
+2025-03-08 12:34:55,055 - KAI - INFO - Exploring concept: 'entity'
+2025-03-08 12:34:56,292 - KAI - WARNING - No Wikipedia page found for 'entity'
+2025-03-08 12:34:56,364 - KAI - INFO - Knowledge base saved with 188 concepts
+2025-03-08 12:34:57,366 - KAI - INFO - Concept 'term' already known with high confidence
+2025-03-08 12:34:58,367 - KAI - INFO - Exploring concept: 'officer'
+2025-03-08 12:35:00,229 - KAI - INFO - Knowledge base saved with 189 concepts
+2025-03-08 12:35:01,232 - KAI - INFO - Exploring concept: 'general'
+2025-03-08 12:35:03,137 - KAI - INFO - Knowledge base saved with 190 concepts
+2025-03-08 12:35:04,139 - KAI - INFO - Exploring concept: 'rank'
+2025-03-08 12:35:06,024 - KAI - INFO - Knowledge base saved with 191 concepts
+2025-03-08 12:35:07,025 - KAI - INFO - Exploring concept: 'high'
+2025-03-08 12:35:11,021 - KAI - INFO - Knowledge base saved with 192 concepts
+2025-03-08 12:35:12,023 - KAI - INFO - Exploring concept: 'armies'
+2025-03-08 12:35:13,861 - KAI - INFO - Knowledge base saved with 193 concepts
+2025-03-08 12:35:14,864 - KAI - INFO - Exploring concept: 'nations'
+2025-03-08 12:35:19,445 - KAI - INFO - Knowledge base saved with 194 concepts
+2025-03-08 12:35:20,448 - KAI - INFO - Exploring concept: 'air'
+2025-03-08 12:35:24,660 - KAI - INFO - Knowledge base saved with 195 concepts
+2025-03-08 12:35:25,663 - KAI - INFO - Exploring concept: 'space'
+2025-03-08 12:35:30,018 - KAI - INFO - Knowledge base saved with 196 concepts
+2025-03-08 12:35:31,020 - KAI - INFO - Exploring concept: 'marines'
+2025-03-08 12:35:33,087 - KAI - INFO - Knowledge base saved with 197 concepts
+2025-03-08 12:35:34,089 - KAI - INFO - Exploring concept: 'army'
+2025-03-08 12:35:38,533 - KAI - INFO - Knowledge base saved with 198 concepts
+2025-03-08 12:35:39,534 - KAI - INFO - Exploring concept: 'force'
+2025-03-08 12:35:40,902 - KAI - WARNING - No Wikipedia page found for 'force'
+2025-03-08 12:35:40,984 - KAI - INFO - Knowledge base saved with 199 concepts
+2025-03-08 12:35:41,985 - KAI - INFO - Exploring concept: 'land'
+2025-03-08 12:35:44,034 - KAI - INFO - Knowledge base saved with 200 concepts
+2025-03-08 12:35:45,035 - KAI - INFO - Exploring concept: 'also'
+2025-03-08 12:35:49,293 - KAI - INFO - Knowledge base saved with 200 concepts
+2025-03-08 12:35:50,294 - KAI - INFO - Concept 'term' already known with high confidence
+2025-03-08 12:35:51,295 - KAI - INFO - Exploring concept: 'de'
+2025-03-08 12:35:53,434 - KAI - INFO - Knowledge base saved with 201 concepts
+2025-03-08 12:35:54,435 - KAI - INFO - Exploring concept: 'mechanics'
+2025-03-08 12:35:58,607 - KAI - WARNING - Failed to resolve disambiguation for 'mechanics'
+2025-03-08 12:35:58,690 - KAI - INFO - Knowledge base saved with 202 concepts
+2025-03-08 12:35:59,691 - KAI - INFO - Exploring concept: 'cause'
+2025-03-08 12:36:03,881 - KAI - INFO - Knowledge base saved with 203 concepts
+2025-03-08 12:36:04,883 - KAI - INFO - Exploring concept: 'often'
+2025-03-08 12:36:06,215 - KAI - WARNING - No Wikipedia page found for 'often'
+2025-03-08 12:36:06,300 - KAI - INFO - Knowledge base saved with 203 concepts
+2025-03-08 12:36:07,301 - KAI - INFO - Exploring concept: 'classical'
+2025-03-08 12:36:09,332 - KAI - INFO - Knowledge base saved with 204 concepts
+2025-03-08 12:36:10,333 - KAI - INFO - Exploring concept: 'body'
+2025-03-08 12:36:13,001 - KAI - INFO - Knowledge base saved with 205 concepts
+2025-03-08 12:36:14,002 - KAI - INFO - Exploring concept: 'object'
+2025-03-08 12:36:15,358 - KAI - WARNING - No Wikipedia page found for 'object'
+2025-03-08 12:36:15,464 - KAI - INFO - Knowledge base saved with 206 concepts
+2025-03-08 12:36:16,465 - KAI - INFO - Exploring concept: 'concept'
+2025-03-08 12:36:20,785 - KAI - INFO - Knowledge base saved with 206 concepts
+2025-03-08 12:36:21,785 - KAI - INFO - Exploring concept: 'important'
+2025-03-08 12:36:23,787 - KAI - INFO - Knowledge base saved with 207 concepts
+2025-03-08 12:36:24,788 - KAI - INFO - Exploring concept: 'services'
+2025-03-08 12:36:29,511 - KAI - WARNING - Failed to resolve disambiguation for 'services'
+2025-03-08 12:36:29,610 - KAI - INFO - Knowledge base saved with 208 concepts
+2025-03-08 12:36:30,613 - KAI - INFO - Exploring concept: 'interests'
+2025-03-08 12:36:32,793 - KAI - INFO - Knowledge base saved with 209 concepts
+2025-03-08 12:36:33,795 - KAI - INFO - Exploring concept: 'organizing'
+2025-03-08 12:36:37,376 - KAI - INFO - Knowledge base saved with 210 concepts
+2025-03-08 12:36:38,378 - KAI - INFO - Exploring concept: 'organising'
+2025-03-08 12:36:41,572 - KAI - INFO - Knowledge base saved with 211 concepts
+2025-03-08 12:36:42,573 - KAI - INFO - Exploring concept: 'establishment'
+2025-03-08 12:36:46,694 - KAI - INFO - Knowledge base saved with 212 concepts
+2025-03-08 12:36:47,695 - KAI - INFO - Exploring concept: 'effective'
+2025-03-08 12:36:49,627 - KAI - INFO - Knowledge base saved with 213 concepts
+2025-03-08 12:38:18,871 - KAI - INFO - Loaded 0 concepts from knowledge base
+2025-03-08 12:38:18,871 - KAI - INFO - KAI initialized successfully
+2025-03-08 12:38:18,872 - KAI - INFO - Bootstrapping knowledge with seeds: ['artificial intelligence', 'machine learning', 'knowledge representation']
+2025-03-08 12:38:18,872 - KAI - INFO - Exploring concept: 'artificial intelligence'
+2025-03-08 12:38:20,821 - KAI - INFO - Knowledge base saved with 1 concepts
+2025-03-08 12:38:20,838 - KAI - INFO - Exploring concept: 'machine learning'
+2025-03-08 12:38:22,113 - KAI - WARNING - No Wikipedia page found for 'machine learning'
+2025-03-08 12:38:22,114 - KAI - WARNING - No valid sources found for 'machine learning'
+2025-03-08 12:38:22,115 - KAI - WARNING - Low confidence for concept 'machine learning'
+2025-03-08 12:38:22,116 - KAI - INFO - Knowledge base saved with 2 concepts
+2025-03-08 12:38:22,116 - KAI - INFO - Exploring concept: 'knowledge representation'
+2025-03-08 12:38:24,192 - KAI - INFO - Knowledge base saved with 3 concepts
+2025-03-08 12:38:32,857 - KAI - INFO - Exploring concept: 'concept'
+2025-03-08 12:38:35,277 - KAI - WARNING - Failed to resolve disambiguation for 'concept': No suitable disambiguation option found
+2025-03-08 12:38:35,280 - KAI - INFO - Knowledge base saved with 4 concepts
+2025-03-08 12:38:36,282 - KAI - INFO - Exploring concept: 'noun'
+2025-03-08 12:38:38,049 - KAI - WARNING - Wikipedia definition may not be about 'noun'
+2025-03-08 12:38:38,050 - KAI - WARNING - Sources disagree on 'noun': 0.02631578947368421 similarity
+2025-03-08 12:38:38,053 - KAI - INFO - Knowledge base saved with 5 concepts
+2025-03-08 12:38:39,055 - KAI - INFO - Exploring concept: 'abstraction'
+2025-03-08 12:38:40,916 - KAI - WARNING - Sources disagree on 'abstraction': 0.02531645569620253 similarity
+2025-03-08 12:38:40,918 - KAI - INFO - Knowledge base saved with 6 concepts
+2025-03-08 12:38:41,920 - KAI - INFO - Exploring concept: 'abstract'
+2025-03-08 12:38:45,872 - KAI - WARNING - Failed to resolve disambiguation for 'abstract': "Abstract" may refer to: 
+Adventure Time
+Abstract (album)
+Abstract algebra
+Abstract of title
+Abstract (law)
+Abstract (summary)
+Abstract art
+Abstract: The Art of Design
+Abstract music
+Abstract object
+Abstract structure
+Abstract type
+abstraction
+Q-Tip (musician)
+Abstract and concrete
+Hydrogen atom abstraction
+Abstraction (disambiguation)
+2025-03-08 12:38:45,877 - KAI - INFO - Knowledge base saved with 7 concepts
+2025-03-08 12:38:46,879 - KAI - INFO - Exploring concept: 'general'
+2025-03-08 12:38:48,817 - KAI - WARNING - Sources disagree on 'general': 0.075 similarity
+2025-03-08 12:38:48,821 - KAI - INFO - Knowledge base saved with 8 concepts
+2025-03-08 12:38:49,823 - KAI - INFO - Exploring concept: 'idea'
+2025-03-08 12:38:52,198 - KAI - WARNING - Wikipedia definition may not be about 'idea'
+2025-03-08 12:38:52,200 - KAI - WARNING - Sources disagree on 'idea': 0.015384615384615385 similarity
+2025-03-08 12:38:52,204 - KAI - INFO - Knowledge base saved with 9 concepts
+2025-03-08 12:38:53,206 - KAI - INFO - Exploring concept: 'understanding'
+2025-03-08 12:38:55,070 - KAI - WARNING - Sources disagree on 'understanding': 0.030927835051546393 similarity
+2025-03-08 12:38:55,074 - KAI - INFO - Knowledge base saved with 10 concepts
+2025-03-08 12:38:56,077 - KAI - INFO - Exploring concept: 'retained'
+2025-03-08 12:38:57,918 - KAI - WARNING - Sources disagree on 'retained': 0.018018018018018018 similarity
+2025-03-08 12:38:57,922 - KAI - INFO - Knowledge base saved with 11 concepts
+2025-03-08 12:38:58,925 - KAI - INFO - Exploring concept: 'word'
+2025-03-08 12:39:00,879 - KAI - WARNING - Wikipedia definition may not be about 'word'
+2025-03-08 12:39:00,882 - KAI - WARNING - Sources disagree on 'word': 0.012578616352201259 similarity
+2025-03-08 12:39:00,887 - KAI - INFO - Knowledge base saved with 12 concepts
+2025-03-08 12:39:01,889 - KAI - INFO - Exploring concept: 'grammar'
+2025-03-08 12:39:03,778 - KAI - WARNING - Sources disagree on 'grammar': 0.07534246575342465 similarity
+2025-03-08 12:39:03,785 - KAI - INFO - Knowledge base saved with 13 concepts
+2025-03-08 12:39:04,788 - KAI - INFO - Exploring concept: 'sense'
+2025-03-08 12:39:06,916 - KAI - WARNING - Failed to resolve disambiguation for 'sense': No suitable disambiguation option found
+2025-03-08 12:39:06,922 - KAI - INFO - Knowledge base saved with 14 concepts
+2025-03-08 12:39:07,925 - KAI - INFO - Exploring concept: 'used'
+2025-03-08 12:39:12,273 - KAI - WARNING - Sources disagree on 'used': 0.13953488372093023 similarity
+2025-03-08 12:39:12,279 - KAI - INFO - Knowledge base saved with 15 concepts
+2025-03-08 12:39:13,281 - KAI - INFO - Exploring concept: 'refer'
+2025-03-08 12:39:16,685 - KAI - WARNING - Failed to resolve disambiguation for 'refer': Page id "reference 5" does not match any pages. Try another id!
+2025-03-08 12:39:16,692 - KAI - INFO - Knowledge base saved with 16 concepts
+2025-03-08 12:39:17,694 - KAI - INFO - Exploring concept: 'person'
+2025-03-08 12:39:20,237 - KAI - WARNING - Sources disagree on 'person': 0.012345679012345678 similarity
+2025-03-08 12:39:20,242 - KAI - INFO - Knowledge base saved with 17 concepts
+2025-03-08 12:39:21,246 - KAI - INFO - Exploring concept: 'ball'
+2025-03-08 12:39:23,635 - KAI - WARNING - Failed to resolve disambiguation for 'ball': No suitable disambiguation option found
+2025-03-08 12:39:23,642 - KAI - INFO - Knowledge base saved with 18 concepts
+2025-03-08 12:39:24,645 - KAI - INFO - Exploring concept: 'process'
+2025-03-08 12:39:26,520 - KAI - WARNING - Sources disagree on 'process': 0.1282051282051282 similarity
+2025-03-08 12:39:26,526 - KAI - INFO - Knowledge base saved with 19 concepts
+2025-03-08 12:39:27,528 - KAI - INFO - Exploring concept: 'concepts'
+2025-03-08 12:39:29,440 - KAI - WARNING - Sources disagree on 'concepts': 0.07092198581560284 similarity
+2025-03-08 12:39:29,447 - KAI - INFO - Knowledge base saved with 20 concepts
+2025-03-08 12:39:30,450 - KAI - INFO - Exploring concept: 'information'
+2025-03-08 12:39:32,424 - KAI - WARNING - Sources disagree on 'information': 0.01904761904761905 similarity
+2025-03-08 12:39:32,431 - KAI - INFO - Knowledge base saved with 21 concepts
+2025-03-08 12:39:33,436 - KAI - INFO - Exploring concept: 'verb'
+2025-03-08 12:39:35,921 - KAI - WARNING - Sources disagree on 'verb': 0.05154639175257732 similarity
+2025-03-08 12:39:35,929 - KAI - INFO - Knowledge base saved with 22 concepts
+2025-03-08 12:39:36,931 - KAI - INFO - Exploring concept: 'separate'
+2025-03-08 12:39:41,112 - KAI - WARNING - Sources disagree on 'separate': 0.014285714285714285 similarity
+2025-03-08 12:39:41,120 - KAI - INFO - Knowledge base saved with 23 concepts
+2025-03-08 12:39:42,122 - KAI - INFO - Exploring concept: 'away'
+2025-03-08 12:39:44,036 - KAI - WARNING - Wikipedia definition may not be about 'away'
+2025-03-08 12:39:44,038 - KAI - WARNING - Sources disagree on 'away': 0.009009009009009009 similarity
+2025-03-08 12:39:44,047 - KAI - INFO - Knowledge base saved with 24 concepts
+2025-03-08 12:39:45,049 - KAI - INFO - Exploring concept: 'adjective'
+2025-03-08 12:39:46,865 - KAI - WARNING - Sources disagree on 'adjective': 0.0547945205479452 similarity
+2025-03-08 12:39:46,872 - KAI - INFO - Knowledge base saved with 25 concepts
+2025-03-08 12:39:47,875 - KAI - INFO - Exploring concept: 'abridgement'
+2025-03-08 12:39:49,805 - KAI - WARNING - Sources disagree on 'abridgement': 0.045454545454545456 similarity
+2025-03-08 12:39:49,814 - KAI - INFO - Knowledge base saved with 26 concepts
+2025-03-08 12:39:50,816 - KAI - INFO - Exploring concept: 'summary'
+2025-03-08 12:39:52,776 - KAI - WARNING - Wikipedia definition may not be about 'summary'
+2025-03-08 12:39:52,777 - KAI - WARNING - Sources disagree on 'summary': 0.0 similarity
+2025-03-08 12:39:52,788 - KAI - INFO - Knowledge base saved with 27 concepts
+2025-03-08 12:39:53,790 - KAI - INFO - Exploring concept: 'officer'
+2025-03-08 12:39:55,829 - KAI - WARNING - Sources disagree on 'officer': 0.03680981595092025 similarity
+2025-03-08 12:39:55,856 - KAI - INFO - Knowledge base saved with 28 concepts
+2025-03-08 12:39:56,864 - KAI - INFO - Exploring concept: 'rank'
+2025-03-08 12:39:58,875 - KAI - WARNING - Sources disagree on 'rank': 0.0 similarity
+2025-03-08 12:39:58,885 - KAI - INFO - Knowledge base saved with 29 concepts
+2025-03-08 12:39:59,888 - KAI - INFO - Exploring concept: 'high'
+2025-03-08 12:40:02,131 - KAI - WARNING - Failed to resolve disambiguation for 'high': No suitable disambiguation option found
+2025-03-08 12:40:02,146 - KAI - INFO - Knowledge base saved with 30 concepts
+2025-03-08 12:40:03,148 - KAI - INFO - Exploring concept: 'armies'
+2025-03-08 12:40:05,225 - KAI - WARNING - Sources disagree on 'armies': 0.049586776859504134 similarity
+2025-03-08 12:40:05,237 - KAI - INFO - Knowledge base saved with 31 concepts
+2025-03-08 12:40:06,243 - KAI - INFO - Exploring concept: 'nations'
+2025-03-08 12:40:09,235 - KAI - WARNING - Failed to resolve disambiguation for 'nations': No suitable disambiguation option found
+2025-03-08 12:40:09,251 - KAI - INFO - Knowledge base saved with 32 concepts
+2025-03-08 12:40:10,253 - KAI - INFO - Exploring concept: 'space'
+2025-03-08 12:40:12,485 - KAI - WARNING - Failed to resolve disambiguation for 'space': No suitable disambiguation option found
+2025-03-08 12:40:12,499 - KAI - INFO - Knowledge base saved with 33 concepts
+2025-03-08 12:40:13,501 - KAI - INFO - Exploring concept: 'examples'
+2025-03-08 12:40:15,827 - KAI - WARNING - Failed to resolve disambiguation for 'examples': No suitable disambiguation option found
+2025-03-08 12:40:15,840 - KAI - INFO - Knowledge base saved with 34 concepts
+2025-03-08 12:40:16,843 - KAI - INFO - Exploring concept: 'archetype'
+2025-03-08 12:40:18,678 - KAI - WARNING - Sources disagree on 'archetype': 0.03550295857988166 similarity
+2025-03-08 12:40:18,688 - KAI - INFO - Knowledge base saved with 35 concepts
+2025-03-08 12:40:19,692 - KAI - INFO - Exploring concept: 'given'
+2025-03-08 12:40:21,841 - KAI - WARNING - Failed to resolve disambiguation for 'given': No suitable disambiguation option found
+2025-03-08 12:40:21,854 - KAI - INFO - Knowledge base saved with 36 concepts
+2025-03-08 12:40:22,856 - KAI - INFO - Exploring concept: 'thing'
+2025-03-08 12:40:27,126 - KAI - WARNING - Sources disagree on 'thing': 0.0072992700729927005 similarity
+2025-03-08 12:40:27,138 - KAI - INFO - Knowledge base saved with 37 concepts
+2025-03-08 12:40:28,139 - KAI - INFO - Exploring concept: 'compared'
+2025-03-08 12:40:30,575 - KAI - WARNING - Wikipedia definition may not be about 'compared'
+2025-03-08 12:40:30,578 - KAI - WARNING - Sources disagree on 'compared': 0.012738853503184714 similarity
+2025-03-08 12:40:30,592 - KAI - INFO - Knowledge base saved with 38 concepts
+2025-03-08 12:40:31,594 - KAI - INFO - Exploring concept: 'object'
+2025-03-08 12:40:32,876 - KAI - WARNING - No Wikipedia page found for 'object'
+2025-03-08 12:40:32,890 - KAI - INFO - Knowledge base saved with 39 concepts
+2025-03-08 12:40:33,893 - KAI - INFO - Exploring concept: 'theories'
+2025-03-08 12:40:35,757 - KAI - WARNING - Sources disagree on 'theories': 0.0 similarity
+2025-03-08 12:40:35,771 - KAI - INFO - Knowledge base saved with 40 concepts
+2025-03-08 12:40:36,776 - KAI - INFO - Exploring concept: 'related'
+2025-03-08 12:40:38,787 - KAI - WARNING - Sources disagree on 'related': 0.0 similarity
+2025-03-08 12:40:38,800 - KAI - INFO - Knowledge base saved with 41 concepts
+2025-03-08 12:40:39,802 - KAI - INFO - Exploring concept: 'behavior'
+2025-03-08 12:40:41,776 - KAI - WARNING - Sources disagree on 'behavior': 0.0 similarity
+2025-03-08 12:40:41,789 - KAI - INFO - Knowledge base saved with 42 concepts
+2025-03-08 12:40:48,315 - KAI - INFO - Loaded 42 concepts from knowledge base
+2025-03-08 12:40:48,316 - KAI - INFO - KAI initialized successfully
+2025-03-08 12:40:57,028 - KAI - INFO - Exploring concept: 'nature'
+2025-03-08 12:40:59,430 - KAI - WARNING - Sources disagree on 'nature': 0.038461538461538464 similarity
+2025-03-08 12:40:59,443 - KAI - INFO - Knowledge base saved with 43 concepts
+2025-03-08 12:40:59,945 - KAI - INFO - Exploring concept: 'human'
+2025-03-08 12:41:01,827 - KAI - WARNING - Sources disagree on 'human': 0.024 similarity
+2025-03-08 12:41:01,844 - KAI - INFO - Knowledge base saved with 44 concepts
+2025-03-08 12:41:02,347 - KAI - INFO - Exploring concept: 'natural'
+2025-03-08 12:41:04,229 - KAI - WARNING - Sources disagree on 'natural': 0.01935483870967742 similarity
+2025-03-08 12:41:04,243 - KAI - INFO - Knowledge base saved with 45 concepts
+2025-03-08 12:41:04,746 - KAI - INFO - Exploring concept: 'whole'
+2025-03-08 12:41:07,180 - KAI - WARNING - Wikipedia definition may not be about 'whole'
+2025-03-08 12:41:07,181 - KAI - WARNING - Sources disagree on 'whole': 0.0 similarity
+2025-03-08 12:41:07,195 - KAI - INFO - Knowledge base saved with 46 concepts
+2025-03-08 12:41:07,697 - KAI - INFO - Concept 'general' already known with high confidence
+2025-03-08 12:41:08,198 - KAI - INFO - Exploring concept: 'part'
+2025-03-08 12:41:10,540 - KAI - WARNING - Failed to resolve disambiguation for 'part': No suitable disambiguation option found
+2025-03-08 12:41:10,564 - KAI - INFO - Knowledge base saved with 47 concepts
+2025-03-08 12:41:11,067 - KAI - INFO - Exploring concept: 'often'
+2025-03-08 12:41:12,478 - KAI - WARNING - No Wikipedia page found for 'often'
+2025-03-08 12:41:12,495 - KAI - INFO - Knowledge base saved with 48 concepts
+2025-03-08 12:41:12,997 - KAI - INFO - Exploring concept: 'male'
+2025-03-08 12:41:15,162 - KAI - WARNING - Failed to resolve disambiguation for 'male': No suitable disambiguation option found
+2025-03-08 12:41:15,180 - KAI - INFO - Knowledge base saved with 49 concepts
+2025-03-08 12:41:15,682 - KAI - INFO - Exploring concept: 'chromosome'
+2025-03-08 12:41:17,542 - KAI - WARNING - Sources disagree on 'chromosome': 0.056910569105691054 similarity
+2025-03-08 12:41:17,562 - KAI - INFO - Knowledge base saved with 50 concepts
+2025-03-08 12:41:18,065 - KAI - INFO - Exploring concept: 'characteristics'
+2025-03-08 12:41:20,160 - KAI - WARNING - Failed to resolve disambiguation for 'characteristics': No suitable disambiguation option found
+2025-03-08 12:41:20,179 - KAI - INFO - Knowledge base saved with 51 concepts
+2025-03-08 12:41:20,681 - KAI - INFO - Exploring concept: 'result'
+2025-03-08 12:41:25,234 - KAI - WARNING - Sources disagree on 'result': 0.024096385542168676 similarity
+2025-03-08 12:41:25,252 - KAI - INFO - Knowledge base saved with 52 concepts
+2025-03-08 12:41:25,754 - KAI - INFO - Exploring concept: 'secondary'
+2025-03-08 12:41:29,529 - KAI - WARNING - Sources disagree on 'secondary': 0.011627906976744186 similarity
+2025-03-08 12:41:29,547 - KAI - INFO - Knowledge base saved with 53 concepts
+2025-03-08 12:41:30,048 - KAI - INFO - Exploring concept: 'include'
+2025-03-08 12:41:32,244 - KAI - WARNING - Failed to resolve disambiguation for 'include': No suitable disambiguation option found
+2025-03-08 12:41:32,266 - KAI - INFO - Knowledge base saved with 54 concepts
+2025-03-08 12:41:32,768 - KAI - INFO - Concept 'general' already known with high confidence
+2025-03-08 12:41:33,269 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:41:33,770 - KAI - INFO - Exploring concept: 'entirety'
+2025-03-08 12:41:35,029 - KAI - WARNING - No Wikipedia page found for 'entirety'
+2025-03-08 12:41:35,050 - KAI - INFO - Knowledge base saved with 55 concepts
+2025-03-08 12:41:35,552 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:41:36,053 - KAI - INFO - Exploring concept: 'something'
+2025-03-08 12:41:39,983 - KAI - WARNING - Sources disagree on 'something': 0.06796116504854369 similarity
+2025-03-08 12:41:39,999 - KAI - INFO - Knowledge base saved with 56 concepts
+2025-03-08 12:41:40,502 - KAI - INFO - Exploring concept: 'complete'
+2025-03-08 12:41:44,698 - KAI - WARNING - Sources disagree on 'complete': 0.0 similarity
+2025-03-08 12:41:44,735 - KAI - INFO - Knowledge base saved with 57 concepts
+2025-03-08 12:41:45,238 - KAI - INFO - Exploring concept: 'without'
+2025-03-08 12:41:49,108 - KAI - WARNING - Wikipedia definition may not be about 'without'
+2025-03-08 12:41:49,112 - KAI - WARNING - Sources disagree on 'without': 0.0 similarity
+2025-03-08 12:41:49,135 - KAI - INFO - Knowledge base saved with 58 concepts
+2025-03-08 12:41:49,638 - KAI - INFO - Exploring concept: 'parts'
+2025-03-08 12:41:53,877 - KAI - WARNING - Failed to resolve disambiguation for 'parts': "Part" may refer to: 
+Part (surname)
+Parts (surname)
+Part (music)
+Part (bibliography)
+Parts (book)
+Character (arts)
+Pottstown Area Rapid Transit
+Putnam Area Rapid Transit
+Piedmont Authority for Regional Transportation
+Part (mathematics)
+Part-of
+Spare part
+Part number
+Part (haircut)
+Parts of Lincolnshire
+Primary age-related tauopathy
+All pages with titles beginning with Part 
+All pages with titles containing Part
+Body part (disambiguation)
+Element (disambiguation)
+Particle (disambiguation)
+Parting (disambiguation)
+Partition (disambiguation)
+System
+Unit (disambiguation)
+2025-03-08 12:41:53,909 - KAI - INFO - Knowledge base saved with 59 concepts
+2025-03-08 12:41:54,412 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:41:54,913 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:41:55,414 - KAI - INFO - Exploring concept: 'portion'
+2025-03-08 12:41:57,563 - KAI - WARNING - Failed to resolve disambiguation for 'portion': No suitable disambiguation option found
+2025-03-08 12:41:57,583 - KAI - INFO - Knowledge base saved with 60 concepts
+2025-03-08 12:41:58,086 - KAI - INFO - Exploring concept: 'component'
+2025-03-08 12:42:01,909 - KAI - WARNING - Sources disagree on 'component': 0.03529411764705882 similarity
+2025-03-08 12:42:01,927 - KAI - INFO - Knowledge base saved with 61 concepts
+2025-03-08 12:42:02,429 - KAI - INFO - Exploring concept: 'duty'
+2025-03-08 12:42:04,781 - KAI - WARNING - Failed to resolve disambiguation for 'duty': No suitable disambiguation option found
+2025-03-08 12:42:04,802 - KAI - INFO - Knowledge base saved with 62 concepts
+2025-03-08 12:42:05,304 - KAI - INFO - Exploring concept: 'responsibility'
+2025-03-08 12:42:06,584 - KAI - WARNING - No Wikipedia page found for 'responsibility'
+2025-03-08 12:42:06,605 - KAI - INFO - Knowledge base saved with 63 concepts
+2025-03-08 12:42:07,107 - KAI - INFO - Exploring concept: 'leave'
+2025-03-08 12:42:09,643 - KAI - WARNING - Failed to resolve disambiguation for 'leave': No suitable disambiguation option found
+2025-03-08 12:42:09,663 - KAI - INFO - Knowledge base saved with 64 concepts
+2025-03-08 12:42:10,165 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:42:10,666 - KAI - INFO - Exploring concept: 'frequent'
+2025-03-08 12:42:12,789 - KAI - WARNING - Failed to resolve disambiguation for 'frequent': No suitable disambiguation option found
+2025-03-08 12:42:12,813 - KAI - INFO - Knowledge base saved with 65 concepts
+2025-03-08 12:42:13,315 - KAI - INFO - Exploring concept: 'adverb'
+2025-03-08 12:42:15,071 - KAI - WARNING - Wikipedia definition may not be about 'adverb'
+2025-03-08 12:42:15,073 - KAI - WARNING - Sources disagree on 'adverb': 0.030927835051546393 similarity
+2025-03-08 12:42:15,096 - KAI - INFO - Knowledge base saved with 66 concepts
+2025-03-08 12:42:15,598 - KAI - INFO - Exploring concept: 'frequently'
+2025-03-08 12:42:17,533 - KAI - WARNING - Wikipedia definition may not be about 'frequently'
+2025-03-08 12:42:17,535 - KAI - WARNING - Sources disagree on 'frequently': 0.0 similarity
+2025-03-08 12:42:17,558 - KAI - INFO - Knowledge base saved with 67 concepts
+2025-03-08 12:42:18,059 - KAI - INFO - Exploring concept: 'many'
+2025-03-08 12:42:19,992 - KAI - WARNING - Wikipedia definition may not be about 'many'
+2025-03-08 12:42:19,994 - KAI - WARNING - Sources disagree on 'many': 0.009433962264150943 similarity
+2025-03-08 12:42:20,017 - KAI - INFO - Knowledge base saved with 68 concepts
+2025-03-08 12:42:20,519 - KAI - INFO - Exploring concept: 'times'
+2025-03-08 12:42:22,583 - KAI - WARNING - Sources disagree on 'times': 0.0546875 similarity
+2025-03-08 12:42:22,605 - KAI - INFO - Knowledge base saved with 69 concepts
+2025-03-08 12:42:23,108 - KAI - INFO - Exploring concept: 'masculine'
+2025-03-08 12:42:24,938 - KAI - WARNING - Sources disagree on 'masculine': 0.07272727272727272 similarity
+2025-03-08 12:42:24,958 - KAI - INFO - Knowledge base saved with 70 concepts
+2025-03-08 12:42:25,459 - KAI - INFO - Exploring concept: 'gender'
+2025-03-08 12:42:27,333 - KAI - WARNING - Wikipedia definition may not be about 'gender'
+2025-03-08 12:42:27,336 - KAI - WARNING - Sources disagree on 'gender': 0.0106951871657754 similarity
+2025-03-08 12:42:27,364 - KAI - INFO - Knowledge base saved with 71 concepts
+2025-03-08 12:42:27,866 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:42:28,367 - KAI - INFO - Exploring concept: 'typically'
+2025-03-08 12:42:30,287 - KAI - WARNING - Sources disagree on 'typically': 0.0 similarity
+2025-03-08 12:42:30,313 - KAI - INFO - Knowledge base saved with 72 concepts
+2025-03-08 12:42:30,813 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:42:31,315 - KAI - INFO - Exploring concept: 'belonging'
+2025-03-08 12:42:35,197 - KAI - WARNING - Sources disagree on 'belonging': 0.010638297872340425 similarity
+2025-03-08 12:42:35,225 - KAI - INFO - Knowledge base saved with 73 concepts
+2025-03-08 12:42:35,726 - KAI - INFO - Exploring concept: 'cell'
+2025-03-08 12:42:37,930 - KAI - WARNING - Failed to resolve disambiguation for 'cell': No suitable disambiguation option found
+2025-03-08 12:42:37,958 - KAI - INFO - Knowledge base saved with 74 concepts
+2025-03-08 12:42:38,460 - KAI - INFO - Exploring concept: 'chromosomes'
+2025-03-08 12:42:40,342 - KAI - WARNING - Sources disagree on 'chromosomes': 0.056910569105691054 similarity
+2025-03-08 12:42:40,368 - KAI - INFO - Knowledge base saved with 75 concepts
+2025-03-08 12:42:40,869 - KAI - INFO - Exploring concept: 'structure'
+2025-03-08 12:42:42,791 - KAI - WARNING - Sources disagree on 'structure': 0.02040816326530612 similarity
+2025-03-08 12:42:42,815 - KAI - INFO - Knowledge base saved with 76 concepts
+2025-03-08 12:42:43,317 - KAI - INFO - Exploring concept: 'proteins'
+2025-03-08 12:42:45,199 - KAI - WARNING - Sources disagree on 'proteins': 0.06382978723404255 similarity
+2025-03-08 12:42:45,223 - KAI - INFO - Knowledge base saved with 77 concepts
+2025-03-08 12:42:45,724 - KAI - INFO - Exploring concept: 'cells'
+2025-03-08 12:42:47,697 - KAI - WARNING - Wikipedia definition may not be about 'cells'
+2025-03-08 12:42:47,700 - KAI - WARNING - Sources disagree on 'cells': 0.0 similarity
+2025-03-08 12:42:47,726 - KAI - INFO - Knowledge base saved with 78 concepts
+2025-03-08 12:42:48,227 - KAI - INFO - Exploring concept: 'visible'
+2025-03-08 12:42:50,139 - KAI - WARNING - Sources disagree on 'visible': 0.0 similarity
+2025-03-08 12:42:50,162 - KAI - INFO - Knowledge base saved with 79 concepts
+2025-03-08 12:42:50,663 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:42:51,164 - KAI - INFO - Exploring concept: 'distinguishing'
+2025-03-08 12:42:53,035 - KAI - WARNING - Wikipedia definition may not be about 'distinguishing'
+2025-03-08 12:42:53,037 - KAI - WARNING - Sources disagree on 'distinguishing': 0.043010752688172046 similarity
+2025-03-08 12:42:53,067 - KAI - INFO - Knowledge base saved with 80 concepts
+2025-03-08 12:42:53,568 - KAI - INFO - Exploring concept: 'feature'
+2025-03-08 12:42:57,538 - KAI - WARNING - Sources disagree on 'feature': 0.029940119760479042 similarity
+2025-03-08 12:42:57,572 - KAI - INFO - Knowledge base saved with 81 concepts
+2025-03-08 12:42:58,073 - KAI - INFO - Concept 'person' already known with high confidence
+2025-03-08 12:42:58,574 - KAI - INFO - Concept 'thing' already known with high confidence
+2025-03-08 12:42:59,075 - KAI - INFO - Exploring concept: 'integer'
+2025-03-08 12:43:00,379 - KAI - WARNING - No Wikipedia page found for 'integer'
+2025-03-08 12:43:00,406 - KAI - INFO - Knowledge base saved with 82 concepts
+2025-03-08 12:43:00,907 - KAI - INFO - Exploring concept: 'consequence'
+2025-03-08 12:43:04,917 - KAI - WARNING - Sources disagree on 'consequence': 0.009433962264150943 similarity
+2025-03-08 12:43:04,942 - KAI - INFO - Knowledge base saved with 83 concepts
+2025-03-08 12:43:05,443 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:43:05,945 - KAI - INFO - Exploring concept: 'effect'
+2025-03-08 12:43:08,040 - KAI - WARNING - Failed to resolve disambiguation for 'effect': No suitable disambiguation option found
+2025-03-08 12:43:08,067 - KAI - INFO - Knowledge base saved with 84 concepts
+2025-03-08 12:43:08,568 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:43:09,069 - KAI - INFO - Exploring concept: 'results'
+2025-03-08 12:43:12,503 - KAI - WARNING - Sources disagree on 'results': 0.025974025974025976 similarity
+2025-03-08 12:43:12,532 - KAI - INFO - Knowledge base saved with 85 concepts
+2025-03-08 12:43:13,033 - KAI - INFO - Exploring concept: 'conclusion'
+2025-03-08 12:43:16,968 - KAI - WARNING - Sources disagree on 'conclusion': 0.010416666666666666 similarity
+2025-03-08 12:43:16,998 - KAI - INFO - Knowledge base saved with 86 concepts
+2025-03-08 12:43:17,499 - KAI - INFO - Exploring concept: 'course'
+2025-03-08 12:43:19,941 - KAI - WARNING - Wikipedia definition may not be about 'course'
+2025-03-08 12:43:19,944 - KAI - WARNING - Sources disagree on 'course': 0.006756756756756757 similarity
+2025-03-08 12:43:19,976 - KAI - INFO - Knowledge base saved with 87 concepts
+2025-03-08 12:43:20,477 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:43:20,978 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:43:21,479 - KAI - INFO - Exploring concept: 'flight'
+2025-03-08 12:43:23,383 - KAI - WARNING - Wikipedia definition may not be about 'flight'
+2025-03-08 12:43:23,385 - KAI - WARNING - Sources disagree on 'flight': 0.0 similarity
+2025-03-08 12:43:23,414 - KAI - INFO - Knowledge base saved with 88 concepts
+2025-03-08 12:43:23,915 - KAI - INFO - Exploring concept: 'feather'
+2025-03-08 12:43:25,945 - KAI - WARNING - Failed to resolve disambiguation for 'feather': No suitable disambiguation option found
+2025-03-08 12:43:25,982 - KAI - INFO - Knowledge base saved with 89 concepts
+2025-03-08 12:43:26,484 - KAI - INFO - Exploring concept: 'attached'
+2025-03-08 12:43:29,666 - KAI - WARNING - Failed to resolve disambiguation for 'attached': No suitable disambiguation option found
+2025-03-08 12:43:29,695 - KAI - INFO - Knowledge base saved with 90 concepts
+2025-03-08 12:43:30,197 - KAI - INFO - Exploring concept: 'ulna'
+2025-03-08 12:43:32,541 - KAI - WARNING - Failed to resolve disambiguation for 'ulna': No suitable disambiguation option found
+2025-03-08 12:43:32,578 - KAI - INFO - Knowledge base saved with 91 concepts
+2025-03-08 12:43:33,079 - KAI - INFO - Exploring concept: 'forearm'
+2025-03-08 12:43:34,892 - KAI - WARNING - Sources disagree on 'forearm': 0.03508771929824561 similarity
+2025-03-08 12:43:34,922 - KAI - INFO - Knowledge base saved with 92 concepts
+2025-03-08 12:43:35,423 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:43:35,924 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:43:36,425 - KAI - INFO - Exploring concept: 'piece'
+2025-03-08 12:43:38,301 - KAI - WARNING - Wikipedia definition may not be about 'piece'
+2025-03-08 12:43:38,303 - KAI - WARNING - Sources disagree on 'piece': 0.0058823529411764705 similarity
+2025-03-08 12:43:38,333 - KAI - INFO - Knowledge base saved with 93 concepts
+2025-03-08 12:43:38,834 - KAI - INFO - Exploring concept: 'source'
+2025-03-08 12:43:43,742 - KAI - WARNING - Sources disagree on 'source': 0.0847457627118644 similarity
+2025-03-08 12:43:43,776 - KAI - INFO - Knowledge base saved with 94 concepts
+2025-03-08 12:43:44,277 - KAI - INFO - Exploring concept: 'code'
+2025-03-08 12:43:46,451 - KAI - WARNING - Failed to resolve disambiguation for 'code': No suitable disambiguation option found
+2025-03-08 12:43:46,483 - KAI - INFO - Knowledge base saved with 95 concepts
+2025-03-08 12:43:46,984 - KAI - INFO - Exploring concept: 'content'
+2025-03-08 12:43:51,644 - KAI - WARNING - Sources disagree on 'content': 0.0 similarity
+2025-03-08 12:43:51,678 - KAI - INFO - Knowledge base saved with 96 concepts
+2025-03-08 12:43:52,179 - KAI - INFO - Exploring concept: 'dynamically'
+2025-03-08 12:43:53,493 - KAI - WARNING - No Wikipedia page found for 'dynamically'
+2025-03-08 12:43:53,525 - KAI - INFO - Knowledge base saved with 97 concepts
+2025-03-08 12:43:54,026 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:43:54,527 - KAI - INFO - Exploring concept: 'amount'
+2025-03-08 12:43:56,953 - KAI - WARNING - Wikipedia definition may not be about 'amount'
+2025-03-08 12:43:56,954 - KAI - WARNING - Sources disagree on 'amount': 0.0 similarity
+2025-03-08 12:43:56,986 - KAI - INFO - Knowledge base saved with 98 concepts
+2025-03-08 12:43:57,487 - KAI - INFO - Exploring concept: 'degree'
+2025-03-08 12:44:01,743 - KAI - WARNING - Sources disagree on 'degree': 0.0625 similarity
+2025-03-08 12:44:01,773 - KAI - INFO - Knowledge base saved with 99 concepts
+2025-03-08 12:44:02,275 - KAI - INFO - Concept 'object' already known with high confidence
+2025-03-08 12:44:02,776 - KAI - INFO - Exploring concept: 'whose'
+2025-03-08 12:44:05,107 - KAI - WARNING - Failed to resolve disambiguation for 'whose': No suitable disambiguation option found
+2025-03-08 12:44:05,143 - KAI - INFO - Knowledge base saved with 100 concepts
+2025-03-08 12:44:05,643 - KAI - INFO - Exploring concept: 'pronoun'
+2025-03-08 12:44:08,296 - KAI - WARNING - Sources disagree on 'pronoun': 0.06756756756756757 similarity
+2025-03-08 12:44:08,338 - KAI - INFO - Knowledge base saved with 101 concepts
+2025-03-08 12:44:08,840 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:44:09,341 - KAI - INFO - Exploring concept: 'name'
+2025-03-08 12:44:14,045 - KAI - WARNING - Sources disagree on 'name': 0.0 similarity
+2025-03-08 12:44:14,090 - KAI - INFO - Knowledge base saved with 102 concepts
+2025-03-08 12:44:14,591 - KAI - INFO - Exploring concept: 'forgotten'
+2025-03-08 12:44:18,905 - KAI - WARNING - Sources disagree on 'forgotten': 0.05 similarity
+2025-03-08 12:44:18,956 - KAI - INFO - Knowledge base saved with 103 concepts
+2025-03-08 12:44:19,458 - KAI - INFO - Exploring concept: 'completed'
+2025-03-08 12:44:21,898 - KAI - WARNING - Failed to resolve disambiguation for 'completed': No suitable disambiguation option found
+2025-03-08 12:44:21,951 - KAI - INFO - Knowledge base saved with 104 concepts
+2025-03-08 12:44:22,452 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:44:22,953 - KAI - INFO - Exploring concept: 'make'
+2025-03-08 12:44:25,156 - KAI - WARNING - Failed to resolve disambiguation for 'make': No suitable disambiguation option found
+2025-03-08 12:44:25,201 - KAI - INFO - Knowledge base saved with 105 concepts
+2025-03-08 12:44:25,701 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:44:26,203 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:44:26,704 - KAI - INFO - Exploring concept: 'survey'
+2025-03-08 12:44:31,026 - KAI - WARNING - Sources disagree on 'survey': 0.013888888888888888 similarity
+2025-03-08 12:44:31,071 - KAI - INFO - Knowledge base saved with 106 concepts
+2025-03-08 12:44:31,573 - KAI - INFO - Exploring concept: 'finish'
+2025-03-08 12:44:35,646 - KAI - WARNING - Sources disagree on 'finish': 0.011111111111111112 similarity
+2025-03-08 12:44:35,687 - KAI - INFO - Knowledge base saved with 107 concepts
+2025-03-08 12:44:36,188 - KAI - INFO - Exploring concept: 'outside'
+2025-03-08 12:44:40,491 - KAI - WARNING - Sources disagree on 'outside': 0.05263157894736842 similarity
+2025-03-08 12:44:40,531 - KAI - INFO - Knowledge base saved with 108 concepts
+2025-03-08 12:44:41,032 - KAI - INFO - Exploring concept: 'preposition'
+2025-03-08 12:44:42,999 - KAI - WARNING - Wikipedia definition may not be about 'preposition'
+2025-03-08 12:44:43,002 - KAI - WARNING - Sources disagree on 'preposition': 0.032520325203252036 similarity
+2025-03-08 12:44:43,044 - KAI - INFO - Knowledge base saved with 109 concepts
+2025-03-08 12:44:43,545 - KAI - INFO - Exploring concept: 'externally'
+2025-03-08 12:44:45,650 - KAI - WARNING - Failed to resolve disambiguation for 'externally': No suitable disambiguation option found
+2025-03-08 12:44:45,694 - KAI - INFO - Knowledge base saved with 110 concepts
+2025-03-08 12:44:46,196 - KAI - INFO - Exploring concept: 'still'
+2025-03-08 12:44:48,201 - KAI - WARNING - Sources disagree on 'still': 0.0 similarity
+2025-03-08 12:44:48,245 - KAI - INFO - Knowledge base saved with 111 concepts
+2025-03-08 12:44:48,746 - KAI - INFO - Concept 'used' already known with high confidence
+2025-03-08 12:44:49,247 - KAI - INFO - Exploring concept: 'names'
+2025-03-08 12:44:51,449 - KAI - WARNING - Sources disagree on 'names': 0.13432835820895522 similarity
+2025-03-08 12:44:51,491 - KAI - INFO - Knowledge base saved with 112 concepts
+2025-03-08 12:44:51,993 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:44:52,494 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:44:52,995 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:44:53,496 - KAI - INFO - Exploring concept: 'separated'
+2025-03-08 12:44:57,647 - KAI - WARNING - Sources disagree on 'separated': 0.03773584905660377 similarity
+2025-03-08 12:44:57,687 - KAI - INFO - Knowledge base saved with 113 concepts
+2025-03-08 12:44:58,189 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:44:58,690 - KAI - INFO - Exploring concept: 'allocated'
+2025-03-08 12:45:00,644 - KAI - WARNING - Wikipedia definition may not be about 'allocated'
+2025-03-08 12:45:00,646 - KAI - WARNING - Sources disagree on 'allocated': 0.045454545454545456 similarity
+2025-03-08 12:45:00,733 - KAI - INFO - Knowledge base saved with 114 concepts
+2025-03-08 12:45:01,235 - KAI - INFO - Exploring concept: 'divided'
+2025-03-08 12:45:03,051 - KAI - WARNING - Sources disagree on 'divided': 0.007874015748031496 similarity
+2025-03-08 12:45:03,100 - KAI - INFO - Knowledge base saved with 115 concepts
+2025-03-08 12:45:03,602 - KAI - INFO - Exploring concept: 'larger'
+2025-03-08 12:45:05,546 - KAI - WARNING - Wikipedia definition may not be about 'larger'
+2025-03-08 12:45:05,549 - KAI - WARNING - Sources disagree on 'larger': 0.0 similarity
+2025-03-08 12:45:05,587 - KAI - INFO - Knowledge base saved with 116 concepts
+2025-03-08 12:45:06,088 - KAI - INFO - Exploring concept: 'smaller'
+2025-03-08 12:45:07,998 - KAI - WARNING - Sources disagree on 'smaller': 0.0 similarity
+2025-03-08 12:45:08,033 - KAI - INFO - Knowledge base saved with 117 concepts
+2025-03-08 12:45:08,534 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:45:09,035 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:45:09,536 - KAI - INFO - Exploring concept: 'entity'
+2025-03-08 12:45:10,847 - KAI - WARNING - No Wikipedia page found for 'entity'
+2025-03-08 12:45:10,883 - KAI - INFO - Knowledge base saved with 118 concepts
+2025-03-08 12:45:11,385 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:45:11,886 - KAI - INFO - Exploring concept: 'morally'
+2025-03-08 12:45:14,346 - KAI - WARNING - Wikipedia definition may not be about 'morally'
+2025-03-08 12:45:14,349 - KAI - WARNING - Sources disagree on 'morally': 0.0 similarity
+2025-03-08 12:45:14,391 - KAI - INFO - Knowledge base saved with 119 concepts
+2025-03-08 12:45:14,892 - KAI - INFO - Exploring concept: 'legally'
+2025-03-08 12:45:16,248 - KAI - WARNING - No Wikipedia page found for 'legally'
+2025-03-08 12:45:16,286 - KAI - INFO - Knowledge base saved with 120 concepts
+2025-03-08 12:45:16,788 - KAI - INFO - Exploring concept: 'obligated'
+2025-03-08 12:45:18,049 - KAI - WARNING - No Wikipedia page found for 'obligated'
+2025-03-08 12:45:18,097 - KAI - INFO - Knowledge base saved with 121 concepts
+2025-03-08 12:45:18,600 - KAI - INFO - Exploring concept: 'state'
+2025-03-08 12:45:23,966 - KAI - WARNING - Sources disagree on 'state': 0.015 similarity
+2025-03-08 12:45:24,012 - KAI - INFO - Knowledge base saved with 122 concepts
+2025-03-08 12:45:24,513 - KAI - INFO - Exploring concept: 'work'
+2025-03-08 12:45:26,448 - KAI - WARNING - Wikipedia definition may not be about 'work'
+2025-03-08 12:45:26,452 - KAI - WARNING - Sources disagree on 'work': 0.0 similarity
+2025-03-08 12:45:26,503 - KAI - INFO - Knowledge base saved with 123 concepts
+2025-03-08 12:45:27,004 - KAI - INFO - Exploring concept: 'responsible'
+2025-03-08 12:45:28,252 - KAI - WARNING - No Wikipedia page found for 'responsible'
+2025-03-08 12:45:28,289 - KAI - INFO - Knowledge base saved with 124 concepts
+2025-03-08 12:45:28,789 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:45:29,290 - KAI - INFO - Exploring concept: 'accountable'
+2025-03-08 12:45:30,580 - KAI - WARNING - No Wikipedia page found for 'accountable'
+2025-03-08 12:45:30,621 - KAI - INFO - Knowledge base saved with 125 concepts
+2025-03-08 12:45:31,121 - KAI - INFO - Exploring concept: 'answerable'
+2025-03-08 12:45:33,046 - KAI - WARNING - Sources disagree on 'answerable': 0.0 similarity
+2025-03-08 12:45:33,095 - KAI - INFO - Knowledge base saved with 126 concepts
+2025-03-08 12:45:33,596 - KAI - INFO - Exploring concept: 'liable'
+2025-03-08 12:45:34,906 - KAI - WARNING - No Wikipedia page found for 'liable'
+2025-03-08 12:45:34,944 - KAI - INFO - Knowledge base saved with 127 concepts
+2025-03-08 12:45:35,445 - KAI - INFO - Exploring concept: 'culpable'
+2025-03-08 12:45:36,702 - KAI - WARNING - No Wikipedia page found for 'culpable'
+2025-03-08 12:45:36,737 - KAI - INFO - Knowledge base saved with 128 concepts
+2025-03-08 12:45:37,238 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:45:37,739 - KAI - INFO - Exploring concept: 'remnant'
+2025-03-08 12:45:41,499 - KAI - WARNING - Sources disagree on 'remnant': 0.03125 similarity
+2025-03-08 12:45:41,539 - KAI - INFO - Knowledge base saved with 129 concepts
+2025-03-08 12:45:42,040 - KAI - INFO - Exploring concept: 'depart'
+2025-03-08 12:45:43,349 - KAI - WARNING - No Wikipedia page found for 'depart'
+2025-03-08 12:45:43,387 - KAI - INFO - Knowledge base saved with 130 concepts
+2025-03-08 12:45:43,888 - KAI - INFO - Concept 'separate' already known with high confidence
+2025-03-08 12:45:44,389 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:45:44,890 - KAI - INFO - Exploring concept: 'occurring'
+2025-03-08 12:45:46,753 - KAI - WARNING - Sources disagree on 'occurring': 0.012903225806451613 similarity
+2025-03-08 12:45:46,794 - KAI - INFO - Knowledge base saved with 131 concepts
+2025-03-08 12:45:47,296 - KAI - INFO - Exploring concept: 'done'
+2025-03-08 12:45:49,518 - KAI - WARNING - Failed to resolve disambiguation for 'done': No suitable disambiguation option found
+2025-03-08 12:45:49,560 - KAI - INFO - Knowledge base saved with 132 concepts
+2025-03-08 12:45:50,061 - KAI - INFO - Exploring concept: 'common'
+2025-03-08 12:45:51,939 - KAI - WARNING - Sources disagree on 'common': 0.014705882352941176 similarity
+2025-03-08 12:45:51,980 - KAI - INFO - Knowledge base saved with 133 concepts
+2025-03-08 12:45:52,482 - KAI - INFO - Exploring concept: 'short'
+2025-03-08 12:45:56,753 - KAI - WARNING - Sources disagree on 'short': 0.03614457831325301 similarity
+2025-03-08 12:45:56,793 - KAI - INFO - Knowledge base saved with 134 concepts
+2025-03-08 12:45:57,294 - KAI - INFO - Exploring concept: 'intervals'
+2025-03-08 12:46:01,052 - KAI - WARNING - Wikipedia definition may not be about 'intervals'
+2025-03-08 12:46:01,054 - KAI - WARNING - Sources disagree on 'intervals': 0.0 similarity
+2025-03-08 12:46:01,104 - KAI - INFO - Knowledge base saved with 135 concepts
+2025-03-08 12:46:01,604 - KAI - INFO - Concept 'verb' already known with high confidence
+2025-03-08 12:46:02,106 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:46:02,607 - KAI - INFO - Concept 'grammar' already known with high confidence
+2025-03-08 12:46:03,108 - KAI - INFO - Concept 'word' already known with high confidence
+2025-03-08 12:46:03,609 - KAI - INFO - Exploring concept: 'modifies'
+2025-03-08 12:46:05,595 - KAI - WARNING - Failed to resolve disambiguation for 'modifies': No suitable disambiguation option found
+2025-03-08 12:46:05,640 - KAI - INFO - Knowledge base saved with 136 concepts
+2025-03-08 12:46:06,142 - KAI - INFO - Concept 'adjective' already known with high confidence
+2025-03-08 12:46:06,643 - KAI - INFO - Exploring concept: 'adverbs'
+2025-03-08 12:46:08,999 - KAI - WARNING - Wikipedia definition may not be about 'adverbs'
+2025-03-08 12:46:09,001 - KAI - WARNING - Sources disagree on 'adverbs': 0.030927835051546393 similarity
+2025-03-08 12:46:09,048 - KAI - INFO - Knowledge base saved with 137 concepts
+2025-03-08 12:46:09,549 - KAI - INFO - Exploring concept: 'sequence'
+2025-03-08 12:46:11,356 - KAI - WARNING - Sources disagree on 'sequence': 0.016129032258064516 similarity
+2025-03-08 12:46:11,404 - KAI - INFO - Knowledge base saved with 138 concepts
+2025-03-08 12:46:11,905 - KAI - INFO - Exploring concept: 'infinitely'
+2025-03-08 12:46:13,755 - KAI - WARNING - Sources disagree on 'infinitely': 0.015625 similarity
+2025-03-08 12:46:13,807 - KAI - INFO - Knowledge base saved with 139 concepts
+2025-03-08 12:46:14,308 - KAI - INFO - Exploring concept: 'terms'
+2025-03-08 12:46:16,361 - KAI - WARNING - Failed to resolve disambiguation for 'terms': No suitable disambiguation option found
+2025-03-08 12:46:16,405 - KAI - INFO - Knowledge base saved with 140 concepts
+2025-03-08 12:46:16,906 - KAI - INFO - Exploring concept: 'number'
+2025-03-08 12:46:18,956 - KAI - WARNING - Sources disagree on 'number': 0.03867403314917127 similarity
+2025-03-08 12:46:18,999 - KAI - INFO - Knowledge base saved with 141 concepts
+2025-03-08 12:46:19,501 - KAI - INFO - Concept 'noun' already known with high confidence
+2025-03-08 12:46:20,002 - KAI - INFO - Exploring concept: 'people'
+2025-03-08 12:46:22,055 - KAI - WARNING - Sources disagree on 'people': 0.13559322033898305 similarity
+2025-03-08 12:46:22,097 - KAI - INFO - Knowledge base saved with 142 concepts
+2025-03-08 12:46:22,597 - KAI - INFO - Exploring concept: 'large'
+2025-03-08 12:46:26,555 - KAI - WARNING - Sources disagree on 'large': 0.0 similarity
+2025-03-08 12:46:26,599 - KAI - INFO - Knowledge base saved with 143 concepts
+2025-03-08 12:46:27,100 - KAI - INFO - Exploring concept: 'multitude'
+2025-03-08 12:46:31,155 - KAI - WARNING - Sources disagree on 'multitude': 0.0 similarity
+2025-03-08 12:46:31,209 - KAI - INFO - Knowledge base saved with 144 concepts
+2025-03-08 12:46:31,710 - KAI - INFO - Exploring concept: 'great'
+2025-03-08 12:46:35,818 - KAI - WARNING - Sources disagree on 'great': 0.03225806451612903 similarity
+2025-03-08 12:46:35,872 - KAI - INFO - Knowledge base saved with 145 concepts
+2025-03-08 12:46:36,373 - KAI - INFO - Exploring concept: 'aggregate'
+2025-03-08 12:46:40,617 - KAI - WARNING - Sources disagree on 'aggregate': 0.0 similarity
+2025-03-08 12:46:40,676 - KAI - INFO - Knowledge base saved with 146 concepts
+2025-03-08 12:46:41,178 - KAI - INFO - Exploring concept: 'time'
+2025-03-08 12:46:43,355 - KAI - WARNING - Wikipedia definition may not be about 'time'
+2025-03-08 12:46:43,358 - KAI - WARNING - Sources disagree on 'time': 0.012987012987012988 similarity
+2025-03-08 12:46:43,423 - KAI - INFO - Knowledge base saved with 147 concepts
+2025-03-08 12:46:43,924 - KAI - INFO - Exploring concept: 'quantities'
+2025-03-08 12:46:45,812 - KAI - WARNING - Sources disagree on 'quantities': 0.03389830508474576 similarity
+2025-03-08 12:46:45,867 - KAI - INFO - Knowledge base saved with 148 concepts
+2025-03-08 12:46:46,368 - KAI - INFO - Exploring concept: 'events'
+2025-03-08 12:46:48,876 - KAI - WARNING - Failed to resolve disambiguation for 'events': No suitable disambiguation option found
+2025-03-08 12:46:48,931 - KAI - INFO - Knowledge base saved with 149 concepts
+2025-03-08 12:46:49,432 - KAI - INFO - Exploring concept: 'international'
+2025-03-08 12:46:53,859 - KAI - WARNING - Sources disagree on 'international': 0.0 similarity
+2025-03-08 12:46:53,915 - KAI - INFO - Knowledge base saved with 150 concepts
+2025-03-08 12:46:54,415 - KAI - INFO - Exploring concept: 'system'
+2025-03-08 12:46:56,410 - KAI - WARNING - Sources disagree on 'system': 0.021739130434782608 similarity
+2025-03-08 12:46:56,464 - KAI - INFO - Knowledge base saved with 151 concepts
+2025-03-08 12:46:56,965 - KAI - INFO - Exploring concept: 'spacetime'
+2025-03-08 12:46:59,519 - KAI - WARNING - Sources disagree on 'spacetime': 0.11392405063291139 similarity
+2025-03-08 12:46:59,574 - KAI - INFO - Knowledge base saved with 152 concepts
+2025-03-08 12:47:00,074 - KAI - INFO - Exploring concept: 'value'
+2025-03-08 12:47:02,057 - KAI - WARNING - Wikipedia definition may not be about 'value'
+2025-03-08 12:47:02,060 - KAI - WARNING - Sources disagree on 'value': 0.0056179775280898875 similarity
+2025-03-08 12:47:02,121 - KAI - INFO - Knowledge base saved with 153 concepts
+2025-03-08 12:49:24,947 - KAI - INFO - Loaded 153 concepts from knowledge base
+2025-03-08 12:49:24,947 - KAI - INFO - KAI initialized successfully
+2025-03-08 12:49:33,990 - KAI - INFO - Exploring concept: 'earth'
+2025-03-08 12:49:35,919 - KAI - WARNING - Wikipedia definition may not be about 'earth'
+2025-03-08 12:49:35,922 - KAI - WARNING - Sources disagree on 'earth': 0.009478672985781991 similarity
+2025-03-08 12:49:35,973 - KAI - INFO - Knowledge base saved with 154 concepts
+2025-03-08 12:49:51,382 - KAI - INFO - Exploring concept: 'wildlife'
+2025-03-08 12:49:52,671 - KAI - WARNING - No Wikipedia page found for 'wildlife'
+2025-03-08 12:49:52,722 - KAI - INFO - Knowledge base saved with 155 concepts
+2025-03-08 12:50:12,200 - KAI - INFO - Exploring concept: 'humans'
+2025-03-08 12:50:14,075 - KAI - WARNING - Sources disagree on 'humans': 0.003257328990228013 similarity
+2025-03-08 12:50:14,126 - KAI - INFO - Knowledge base saved with 156 concepts
+2025-03-08 12:50:27,517 - KAI - INFO - Exploring concept: 'ai'
+2025-03-08 12:50:29,921 - KAI - WARNING - Wikipedia definition may not be about 'ai'
+2025-03-08 12:50:29,924 - KAI - WARNING - Sources disagree on 'ai': 0.0 similarity
+2025-03-08 12:50:29,974 - KAI - INFO - Knowledge base saved with 157 concepts
+2025-03-08 12:50:49,115 - KAI - INFO - Exploring concept: 'chat'
+2025-03-08 12:50:50,978 - KAI - WARNING - Wikipedia definition may not be about 'chat'
+2025-03-08 12:50:50,980 - KAI - WARNING - Sources disagree on 'chat': 0.0 similarity
+2025-03-08 12:50:51,030 - KAI - INFO - Knowledge base saved with 158 concepts
+2025-03-08 12:51:08,428 - KAI - INFO - Exploring concept: 'fortnite'
+2025-03-08 12:51:09,677 - KAI - WARNING - No Wikipedia page found for 'fortnite'
+2025-03-08 12:51:09,677 - KAI - WARNING - No valid sources found for 'fortnite'
+2025-03-08 12:51:09,678 - KAI - WARNING - Low confidence for concept 'fortnite'
+2025-03-08 12:51:10,174 - KAI - INFO - Knowledge base saved with 159 concepts
+2025-03-08 12:51:27,772 - KAI - INFO - Exploring concept: 'fortnite'
+2025-03-08 12:51:27,773 - KAI - WARNING - No valid sources found for 'fortnite'
+2025-03-08 12:51:27,773 - KAI - WARNING - Low confidence for concept 'fortnite'
+2025-03-08 12:51:28,493 - KAI - INFO - Knowledge base saved with 159 concepts
+2025-03-08 12:54:09,358 - KAI - INFO - Exploring concept: 'hello'
+2025-03-08 12:54:11,303 - KAI - WARNING - Wikipedia definition may not be about 'hello'
+2025-03-08 12:54:11,305 - KAI - WARNING - Sources disagree on 'hello': 0.0 similarity
+2025-03-08 12:54:11,370 - KAI - INFO - Knowledge base saved with 160 concepts
+2025-03-08 12:54:26,300 - KAI - INFO - Exploring concept: 'game'
+2025-03-08 12:54:28,896 - KAI - WARNING - Sources disagree on 'game': 0.038461538461538464 similarity
+2025-03-08 12:54:28,955 - KAI - INFO - Knowledge base saved with 161 concepts
+2025-03-08 12:54:41,347 - KAI - INFO - Exploring concept: 'fortnite'
+2025-03-08 12:54:41,348 - KAI - WARNING - No valid sources found for 'fortnite'
+2025-03-08 12:54:41,348 - KAI - WARNING - Low confidence for concept 'fortnite'
+2025-03-08 12:54:42,083 - KAI - INFO - Knowledge base saved with 161 concepts
+2025-03-08 13:01:37,593 - KAI - INFO - Loaded 161 concepts from knowledge base
+2025-03-08 13:01:37,595 - KAI - INFO - KAI initialized successfully
+2025-03-08 13:01:41,219 - KAI - INFO - Identified primary topic: 'war'
+2025-03-08 13:01:41,220 - KAI - INFO - Starting exploration for unknown topic: 'war'
+2025-03-08 13:01:41,220 - KAI - INFO - Exploring concept: 'war' (depth 0)
+2025-03-08 13:01:44,256 - KAI - WARNING - Sources disagree on 'war': 0.08 similarity
+2025-03-08 13:01:44,329 - KAI - INFO - Knowledge base saved with 162 concepts
+2025-03-08 13:01:44,532 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:01:44,532 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:02:02,745 - KAI - INFO - Identified primary topic: 'states'
+2025-03-08 13:02:02,745 - KAI - INFO - Starting exploration for unknown topic: 'states'
+2025-03-08 13:02:02,746 - KAI - INFO - Exploring concept: 'states' (depth 0)
+2025-03-08 13:02:04,279 - KAI - WARNING - No Wikipedia page found for 'states'
+2025-03-08 13:02:04,330 - KAI - INFO - Knowledge base saved with 163 concepts
+2025-03-08 13:02:04,532 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:02:04,532 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:05:22,588 - KAI - INFO - Identified primary topic: 'meant with us'
+2025-03-08 13:05:22,589 - KAI - INFO - Starting exploration for unknown topic: 'meant with us'
+2025-03-08 13:05:22,589 - KAI - INFO - Exploring concept: 'meant with us' (depth 0)
+2025-03-08 13:05:25,435 - KAI - INFO - Knowledge base saved with 164 concepts
+2025-03-08 13:05:25,637 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:05:25,638 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:06:15,614 - KAI - INFO - Identified primary topic: 'game fortnite'
+2025-03-08 13:06:15,614 - KAI - INFO - Starting exploration for unknown topic: 'game fortnite'
+2025-03-08 13:06:15,615 - KAI - INFO - Exploring concept: 'game fortnite' (depth 0)
+2025-03-08 13:06:18,315 - KAI - INFO - Knowledge base saved with 165 concepts
+2025-03-08 13:06:18,518 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:06:18,519 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:06:38,240 - KAI - INFO - Identified primary topic: 'war between countries'
+2025-03-08 13:06:38,241 - KAI - INFO - Starting exploration for unknown topic: 'war between countries'
+2025-03-08 13:06:38,241 - KAI - INFO - Exploring concept: 'war between countries' (depth 0)
+2025-03-08 13:06:41,153 - KAI - INFO - Knowledge base saved with 166 concepts
+2025-03-08 13:06:41,317 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:06:41,317 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:06:50,608 - KAI - INFO - Identified primary topic: 'people'
+2025-03-08 13:07:28,678 - KAI - INFO - Loaded 166 concepts from knowledge base
+2025-03-08 13:07:28,679 - KAI - INFO - KAI initialized successfully
+2025-03-08 13:07:37,839 - KAI - INFO - Identified primary topic: 'meant and we are together'
+2025-03-08 13:07:37,839 - KAI - INFO - Starting exploration for unknown topic: 'meant and we are together'
+2025-03-08 13:07:37,840 - KAI - INFO - Exploring concept: 'meant and we are together' (depth 0)
+2025-03-08 13:07:40,292 - KAI - WARNING - Wikipedia definition may not be about 'meant and we are together'
+2025-03-08 13:07:40,359 - KAI - INFO - Knowledge base saved with 167 concepts
+2025-03-08 13:07:40,562 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:07:40,562 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:23:39,906 - KAI - INFO - Loaded 167 concepts from knowledge base
+2025-03-08 13:23:40,621 - KAI - INFO - KAI initialized successfully
+2025-03-08 13:23:47,432 - KAI - INFO - Identified primary topic: 'game fortnite'
+2025-03-08 13:24:23,806 - KAI - INFO - Identified primary topic: 'learning'
+2025-03-08 13:24:23,806 - KAI - INFO - Starting exploration for unknown topic: 'learning'
+2025-03-08 13:24:23,807 - KAI - INFO - Exploring concept: 'learning' (depth 0)
+2025-03-08 13:24:25,344 - KAI - WARNING - No Wikipedia page found for 'learning'
+2025-03-08 13:24:25,410 - KAI - INFO - Knowledge base saved with 168 concepts
+2025-03-08 13:24:25,614 - KAI - INFO - Exploration complete: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:24:25,614 - KAI - INFO - Exploration results: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:26:02,163 - KAI - INFO - Identified primary topic: 'starwars'
+2025-03-08 13:26:02,163 - KAI - INFO - Starting exploration for unknown topic: 'starwars'
+2025-03-08 13:26:02,163 - KAI - INFO - Exploring concept: 'starwars' (depth 0)
+2025-03-08 13:26:05,260 - KAI - WARNING - Wikipedia definition may not be about 'starwars'
+2025-03-08 13:26:05,320 - KAI - INFO - Knowledge base saved with 169 concepts
+2025-03-08 13:26:05,522 - KAI - INFO - Exploration complete: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:26:05,522 - KAI - INFO - Exploration results: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:31:37,641 - KAI - INFO - Loaded 169 concepts from knowledge base
+2025-03-08 13:31:37,642 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 13:31:37,642 - KAI - INFO - KAI initialized successfully
+2025-03-08 13:31:41,560 - KAI - INFO - Identified primary topic: 'war'
+2025-03-08 13:31:53,636 - KAI - INFO - Identified primary topic: 'mongolai'
+2025-03-08 13:31:53,636 - KAI - INFO - Starting exploration for unknown topic: 'mongolai'
+2025-03-08 13:31:53,637 - KAI - INFO - Exploring concept: 'mongolai' (depth 0)
+2025-03-08 13:31:55,980 - KAI - WARNING - Wikipedia definition may not be about 'mongolai'
+2025-03-08 13:31:56,572 - KAI - INFO - Knowledge base saved with 170 concepts
+2025-03-08 13:31:56,777 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:31:56,777 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:35:48,309 - KAI - INFO - Loaded 170 concepts from knowledge base
+2025-03-08 13:35:48,309 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 13:35:48,309 - KAI - INFO - KAI initialized successfully
+2025-03-08 13:35:56,769 - KAI - INFO - Identified primary topic: 'mongolia'
+2025-03-08 13:35:56,769 - KAI - INFO - Starting exploration for unknown topic: 'mongolia'
+2025-03-08 13:35:56,770 - KAI - INFO - Exploring concept: 'mongolia' (depth 0)
+2025-03-08 13:35:59,286 - KAI - INFO - Knowledge base saved with 171 concepts
+2025-03-08 13:35:59,490 - KAI - INFO - Exploration complete: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:35:59,490 - KAI - INFO - Exploration results: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:36:20,722 - KAI - INFO - Identified primary topic: 'language german'
+2025-03-08 13:36:20,722 - KAI - INFO - Starting exploration for unknown topic: 'language german'
+2025-03-08 13:36:20,723 - KAI - INFO - Exploring concept: 'language german' (depth 0)
+2025-03-08 13:36:24,518 - KAI - WARNING - Error getting DBpedia definition for 'language german': HTTPSConnectionPool(host='lookup.dbpedia.org', port=443): Read timed out. (read timeout=3)
+2025-03-08 13:36:24,571 - KAI - INFO - Knowledge base saved with 172 concepts
+2025-03-08 13:36:24,776 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:36:24,776 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:36:48,148 - KAI - INFO - Identified primary topic: 'programming'
+2025-03-08 13:36:48,148 - KAI - INFO - Starting exploration for unknown topic: 'programming'
+2025-03-08 13:36:48,149 - KAI - INFO - Exploring concept: 'programming' (depth 0)
+2025-03-08 13:36:52,009 - KAI - WARNING - Error getting DBpedia definition for 'programming': HTTPSConnectionPool(host='lookup.dbpedia.org', port=443): Read timed out. (read timeout=3)
+2025-03-08 13:36:52,116 - KAI - INFO - Knowledge base saved with 173 concepts
+2025-03-08 13:36:52,320 - KAI - INFO - Exploration complete: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:36:52,320 - KAI - INFO - Exploration results: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:38:32,816 - KAI - INFO - Identified primary topic: 'programming'
+2025-03-08 13:38:42,917 - KAI - INFO - Identified primary topic: 'programming'
+2025-03-08 13:38:52,698 - KAI - INFO - Identified primary topic: 'computer'
+2025-03-08 13:38:52,698 - KAI - INFO - Starting exploration for unknown topic: 'computer'
+2025-03-08 13:38:52,698 - KAI - INFO - Exploring concept: 'computer' (depth 0)
+2025-03-08 13:38:53,954 - KAI - WARNING - No Wikipedia page found for 'computer'
+2025-03-08 13:38:54,169 - KAI - INFO - Knowledge base saved with 174 concepts
+2025-03-08 13:38:54,373 - KAI - INFO - Exploration complete: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:38:54,373 - KAI - INFO - Exploration results: {'total_concepts': 7, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:39:03,868 - KAI - INFO - Identified primary topic: 'term pc'
+2025-03-08 13:39:03,868 - KAI - INFO - Starting exploration for unknown topic: 'term pc'
+2025-03-08 13:39:03,869 - KAI - INFO - Exploring concept: 'term pc' (depth 0)
+2025-03-08 13:39:05,115 - KAI - WARNING - No Wikipedia page found for 'term pc'
+2025-03-08 13:39:07,200 - KAI - INFO - Knowledge base saved with 175 concepts
+2025-03-08 13:39:07,362 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:39:07,362 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:39:21,430 - KAI - INFO - Identified primary topic: 'n pc'
+2025-03-08 13:39:21,431 - KAI - INFO - Starting exploration for unknown topic: 'n pc'
+2025-03-08 13:39:21,431 - KAI - INFO - Exploring concept: 'n pc' (depth 0)
+2025-03-08 13:39:23,956 - KAI - WARNING - Wikipedia definition may not be about 'n pc'
+2025-03-08 13:39:24,012 - KAI - INFO - Knowledge base saved with 176 concepts
+2025-03-08 13:39:24,175 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:39:24,175 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 13:40:23,006 - KAI - INFO - Loaded 176 concepts from knowledge base
+2025-03-08 13:40:23,007 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 13:40:23,008 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:14:57,219 - KAI - INFO - Loaded 0 concepts from knowledge base
+2025-03-08 15:14:57,219 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 15:14:57,219 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:14:57,220 - KAI - INFO - Bootstrapping knowledge with seeds: ['artificial intelligence', 'machine learning', 'knowledge representation']
+2025-03-08 15:14:57,220 - KAI - INFO - Starting exploration for seed concept: artificial intelligence
+2025-03-08 15:14:57,221 - KAI - INFO - Exploring concept: 'artificial intelligence' (depth 0)
+2025-03-08 15:15:03,214 - KAI - WARNING - Error getting DBpedia information for 'artificial intelligence': 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Kevin/nltk_data'
+    - 'C:\\Python312\\nltk_data'
+    - 'C:\\Python312\\share\\nltk_data'
+    - 'C:\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\Kevin\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-03-08 15:15:03,216 - KAI - INFO - Knowledge base saved with 1 concepts
+2025-03-08 15:15:03,234 - KAI - ERROR - Error exploring concept 'artificial intelligence': 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Kevin/nltk_data'
+    - 'C:\\Python312\\nltk_data'
+    - 'C:\\Python312\\share\\nltk_data'
+    - 'C:\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\Kevin\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-03-08 15:15:03,436 - KAI - INFO - Knowledge base saved with 1 concepts
+2025-03-08 15:15:03,436 - KAI - INFO - Exploration complete: {'total_concepts': 1, 'explored_concepts': 1, 'successful_concepts': 0, 'failed_concepts': 1}
+2025-03-08 15:15:03,437 - KAI - INFO - Exploration results for 'artificial intelligence': {'total_concepts': 1, 'explored_concepts': 1, 'successful_concepts': 0, 'failed_concepts': 1}
+2025-03-08 15:15:03,439 - KAI - INFO - Starting exploration for seed concept: machine learning
+2025-03-08 15:15:03,439 - KAI - INFO - Exploring concept: 'machine learning' (depth 0)
+2025-03-08 15:15:07,114 - KAI - WARNING - Error getting DBpedia information for 'machine learning': 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Kevin/nltk_data'
+    - 'C:\\Python312\\nltk_data'
+    - 'C:\\Python312\\share\\nltk_data'
+    - 'C:\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\Kevin\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-03-08 15:15:07,116 - KAI - INFO - Knowledge base saved with 2 concepts
+2025-03-08 15:15:07,134 - KAI - ERROR - Error exploring concept 'machine learning': 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Kevin/nltk_data'
+    - 'C:\\Python312\\nltk_data'
+    - 'C:\\Python312\\share\\nltk_data'
+    - 'C:\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\Kevin\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-03-08 15:15:07,436 - KAI - INFO - Knowledge base saved with 2 concepts
+2025-03-08 15:15:07,436 - KAI - INFO - Exploration complete: {'total_concepts': 1, 'explored_concepts': 1, 'successful_concepts': 0, 'failed_concepts': 1}
+2025-03-08 15:15:07,437 - KAI - INFO - Exploration results for 'machine learning': {'total_concepts': 1, 'explored_concepts': 1, 'successful_concepts': 0, 'failed_concepts': 1}
+2025-03-08 15:15:07,437 - KAI - INFO - Starting exploration for seed concept: knowledge representation
+2025-03-08 15:15:07,438 - KAI - INFO - Exploring concept: 'knowledge representation' (depth 0)
+2025-03-08 15:15:11,235 - KAI - WARNING - Error getting DBpedia information for 'knowledge representation': 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Kevin/nltk_data'
+    - 'C:\\Python312\\nltk_data'
+    - 'C:\\Python312\\share\\nltk_data'
+    - 'C:\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\Kevin\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-03-08 15:15:11,238 - KAI - INFO - Knowledge base saved with 3 concepts
+2025-03-08 15:15:11,254 - KAI - ERROR - Error exploring concept 'knowledge representation': 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Kevin/nltk_data'
+    - 'C:\\Python312\\nltk_data'
+    - 'C:\\Python312\\share\\nltk_data'
+    - 'C:\\Python312\\lib\\nltk_data'
+    - 'C:\\Users\\Kevin\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-03-08 15:15:11,557 - KAI - INFO - Knowledge base saved with 3 concepts
+2025-03-08 15:15:11,558 - KAI - INFO - Exploration complete: {'total_concepts': 1, 'explored_concepts': 1, 'successful_concepts': 0, 'failed_concepts': 1}
+2025-03-08 15:15:11,559 - KAI - INFO - Exploration results for 'knowledge representation': {'total_concepts': 1, 'explored_concepts': 1, 'successful_concepts': 0, 'failed_concepts': 1}
+2025-03-08 15:16:03,460 - KAI - INFO - Loaded 3 concepts from knowledge base
+2025-03-08 15:16:03,461 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 15:16:03,461 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:18:37,742 - KAI - INFO - Loaded 3 concepts from knowledge base
+2025-03-08 15:18:37,742 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 15:18:37,742 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:19:34,506 - KAI - INFO - Loaded 3 concepts from knowledge base
+2025-03-08 15:19:34,506 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 15:19:34,521 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-08 15:19:34,522 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-08 15:19:36,533 - KAI - INFO - Using GPU acceleration for text processing
+2025-03-08 15:19:36,533 - KAI - INFO - RecursiveKnowledgeExplorer will use GPU acceleration
+2025-03-08 15:19:36,534 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:19:42,375 - KAI - INFO - Identified primary topic: 'human'
+2025-03-08 15:19:42,376 - KAI - INFO - Starting exploration for unknown topic: 'human'
+2025-03-08 15:19:42,376 - KAI - INFO - Exploring concept: 'human' (depth 0)
+2025-03-08 15:19:52,447 - KAI - WARNING - Error getting DBpedia definition for 'human': HTTPSConnectionPool(host='dbpedia.org', port=443): Read timed out. (read timeout=3)
+2025-03-08 15:19:52,450 - KAI - INFO - Knowledge base saved with 4 concepts
+2025-03-08 15:19:52,844 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:19:52,844 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:20:12,326 - KAI - INFO - Identified primary topic: 'human'
+2025-03-08 15:20:20,273 - KAI - INFO - Identified primary topic: 'human'
+2025-03-08 15:20:39,428 - KAI - INFO - Identified primary topic: 'human'
+2025-03-08 15:24:09,730 - KAI - INFO - Identified primary topic: 'artificial intelligence'
+2025-03-08 15:25:00,726 - KAI - INFO - Identified primary topic: 'artificial intelligence'
+2025-03-08 15:30:28,787 - KAI - INFO - Loaded 4 concepts from knowledge base
+2025-03-08 15:30:28,787 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 15:30:28,804 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-08 15:30:28,805 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-08 15:30:31,058 - KAI - INFO - Using GPU acceleration for text processing
+2025-03-08 15:30:31,059 - KAI - INFO - RecursiveKnowledgeExplorer will use GPU acceleration
+2025-03-08 15:30:31,059 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:31:08,178 - KAI - INFO - Identified primary topic: 'machine learning'
+2025-03-08 15:31:08,179 - KAI - INFO - Found specific meaning match: Machine learning
+2025-03-08 15:39:33,085 - KAI - INFO - Loaded 0 concepts and 0 meanings from knowledge base
+2025-03-08 15:39:33,086 - KAI - INFO - No cache file found, starting with empty cache
+2025-03-08 15:39:33,102 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cuda
+2025-03-08 15:39:33,103 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-08 15:39:35,154 - KAI - INFO - Using GPU acceleration for text processing
+2025-03-08 15:39:35,154 - KAI - INFO - RecursiveKnowledgeExplorer will use GPU acceleration
+2025-03-08 15:39:35,155 - KAI - INFO - KAI initialized successfully
+2025-03-08 15:39:35,155 - KAI - INFO - Bootstrapping knowledge with seeds: ['artificial intelligence', 'machine learning', 'knowledge representation']
+2025-03-08 15:39:35,155 - KAI - INFO - Starting exploration for seed concept: artificial intelligence
+2025-03-08 15:39:35,155 - KAI - INFO - Exploring concept: 'artificial intelligence' (depth 0)
+2025-03-08 15:39:42,740 - KAI - INFO - Knowledge base saved with 1 concepts and 0 meanings
+2025-03-08 15:39:42,975 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:39:42,975 - KAI - INFO - Exploration results for 'artificial intelligence': {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:39:42,976 - KAI - INFO - Starting exploration for seed concept: machine learning
+2025-03-08 15:39:42,976 - KAI - INFO - Exploring concept: 'machine learning' (depth 0)
+2025-03-08 15:39:49,609 - KAI - INFO - Knowledge base saved with 2 concepts and 5 meanings
+2025-03-08 15:39:49,827 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:39:49,827 - KAI - INFO - Exploration results for 'machine learning': {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:39:49,827 - KAI - INFO - Starting exploration for seed concept: knowledge representation
+2025-03-08 15:39:49,828 - KAI - INFO - Exploring concept: 'knowledge representation' (depth 0)
+2025-03-08 15:39:56,322 - KAI - INFO - Knowledge base saved with 3 concepts and 10 meanings
+2025-03-08 15:39:56,540 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:39:56,541 - KAI - INFO - Exploration results for 'knowledge representation': {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:40:07,091 - KAI - INFO - Identified primary topic: 'machine learning'
+2025-03-08 15:40:07,091 - KAI - INFO - Found specific meaning match: Machine learning
+2025-03-08 15:40:34,811 - KAI - INFO - Identified primary topic: 'machine learning'
+2025-03-08 15:40:34,811 - KAI - INFO - Found specific meaning match: Machine learning
+2025-03-08 15:40:54,454 - KAI - INFO - Identified primary topic: 'human'
+2025-03-08 15:40:54,455 - KAI - INFO - Starting exploration for unknown topic: 'human'
+2025-03-08 15:40:54,455 - KAI - INFO - Exploring concept: 'human' (depth 0)
+2025-03-08 15:41:01,565 - KAI - INFO - Knowledge base saved with 4 concepts and 14 meanings
+2025-03-08 15:41:01,801 - KAI - INFO - Exploration complete: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}
+2025-03-08 15:41:01,801 - KAI - INFO - Exploration results: {'total_concepts': 8, 'explored_concepts': 1, 'successful_concepts': 1, 'failed_concepts': 0}

@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: kai
+Version: 0.1.0
+Summary: Knowledge Adaptive Intelligence - A self-learning AI system
+Author: Your Name
+Author-email: your.email@example.com
+Keywords: ai,ml,knowledge,learning
+Requires-Python: >=3.8
+Requires-Dist: nltk>=3.8.0
+Requires-Dist: wikipedia>=1.4.0
+Requires-Dist: requests>=2.30.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
